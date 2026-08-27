@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Marathon 2027 — training calendar</title>
+<style>
+:root{
+  --bg:#EEF1F5; --surface:#FFFFFF; --ink:#101720; --muted:#5C6B7A; --line:#D9DFE7; --soft:#F6F8FA;
+  --run:#D62828; --bike:#1D5FD1; --gym:#6F42C1; --mob:#128C65; --swim:#0E8FA0; --race:#111720; --key:#F5B700;
+  --base:#C9D3DF; --build:#B9CDF0; --specific:#F2CBB8; --taper:#CDEBD6; --racewk:#FFE79A;
+  --disp:"Avenir Next Condensed","Helvetica Neue Condensed","Arial Narrow",-apple-system,Helvetica,Arial,sans-serif;
+  --body:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Helvetica,Arial,sans-serif;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box} html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+button:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--bike);outline-offset:2px}
+.wrap{max-width:1100px;margin:0 auto;padding:12px 12px calc(24px + env(safe-area-inset-bottom))}
+/* header */
+.hdr{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;padding:6px 2px 10px}
+.wordmark{font-family:var(--disp);font-weight:700;font-size:28px;letter-spacing:.02em;text-transform:uppercase;line-height:1}
+.wordmark small{display:block;font-family:var(--body);font-weight:500;font-size:12px;letter-spacing:.06em;color:var(--muted);text-transform:uppercase;margin-top:4px}
+.count{text-align:right;font-family:var(--mono);font-size:12px;color:var(--muted)} .count b{display:block;font-family:var(--disp);font-size:30px;color:var(--ink);line-height:1;font-weight:700}
+/* load strip */
+.strip{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 10px 6px;margin-bottom:12px}
+.strip h2{margin:0 0 6px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600;display:flex;justify-content:space-between}
+.bars{display:grid;grid-template-columns:repeat(26,1fr);gap:2px;height:64px;align-items:end}
+.bar{position:relative;height:100%;display:flex;flex-direction:column;justify-content:flex-end;border-radius:3px 3px 0 0;overflow:hidden;background:var(--soft)}
+.bar i{display:block;width:100%;background:var(--run);opacity:.85;border-radius:3px 3px 0 0}
+.bar.cut i{opacity:.45} .bar.now{outline:2px solid var(--ink);outline-offset:1px;border-radius:3px}
+.bar.key::after{content:"";position:absolute;top:2px;left:50%;transform:translateX(-50%);width:6px;height:6px;border-radius:50%;background:var(--key);border:1px solid #8a6a00}
+.bar:hover i,.bar:focus-visible i{opacity:1}
+.phases{display:grid;grid-template-columns:8fr 8fr 7fr 2fr 1fr;gap:2px;margin-top:4px}
+.phases span{font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:3px 4px;border-radius:3px;text-align:center;white-space:nowrap;overflow:hidden}
+.phases .p-base{background:var(--base)} .phases .p-build{background:var(--build)} .phases .p-specific{background:var(--specific)} .phases .p-taper{background:var(--taper)} .phases .p-race{background:var(--racewk)}
+/* toolbar */
+.bar-row{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:0 0 10px}
+.seg{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:2px}
+.seg button{padding:6px 12px;border-radius:999px;font-size:13px;font-weight:600;color:var(--muted)} .seg button[aria-pressed=true]{background:var(--ink);color:#fff}
+.nav{display:flex;align-items:center;gap:4px} .nav button{width:34px;height:34px;border-radius:8px;background:var(--surface);border:1px solid var(--line);font-size:16px}
+.nav .title{font-family:var(--disp);font-size:22px;font-weight:700;text-transform:uppercase;letter-spacing:.02em;min-width:120px;text-align:center}
+.today{padding:7px 12px;border-radius:8px;background:var(--surface);border:1px solid var(--line);font-size:13px;font-weight:600}
+/* month grid */
+.dow{display:grid;grid-template-columns:44px repeat(7,1fr);gap:3px;margin-bottom:3px}
+.dow span{font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:center}
+.week{display:grid;grid-template-columns:44px repeat(7,1fr);gap:3px;margin-bottom:3px}
+.wk{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:6px 4px;display:flex;flex-direction:column;align-items:center;justify-content:space-between;gap:4px;text-align:center;cursor:pointer;min-height:84px}
+.wk b{font-family:var(--disp);font-size:16px;font-weight:700} .wk small{font-family:var(--mono);font-size:10px;color:var(--muted)}
+.wk .load{width:100%;height:4px;background:var(--soft);border-radius:2px;overflow:hidden} .wk .load i{display:block;height:100%;background:var(--run)}
+.wk.p-base{border-top:3px solid var(--base)} .wk.p-build{border-top:3px solid var(--build)} .wk.p-specific{border-top:3px solid var(--specific)} .wk.p-taper{border-top:3px solid var(--taper)} .wk.p-race{border-top:3px solid var(--racewk)}
+.day{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:4px;min-height:84px;display:flex;flex-direction:column;gap:3px;cursor:pointer;position:relative}
+.day.out{opacity:.35} .day.today{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.day .n{font-family:var(--mono);font-size:11px;color:var(--muted);padding:1px 2px}
+.day.today .n{color:var(--ink);font-weight:700}
+.chip{display:block;width:100%;text-align:left;font-size:11px;line-height:1.25;padding:3px 5px;border-radius:4px;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-left:3px solid rgba(0,0,0,.25)}
+.chip.opt{opacity:.55;border-left-style:dashed}
+.c-run{background:var(--run)} .c-bike{background:var(--bike)} .c-gym{background:var(--gym)} .c-mobility{background:var(--mob)} .c-swim{background:var(--swim)} .c-race{background:var(--race);border-left-color:var(--key)}
+.chip .t{font-family:var(--mono);opacity:.8;margin-right:4px}
+/* week (agenda) view */
+.agenda{display:flex;flex-direction:column;gap:10px}
+.ahead{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.ahead h3{margin:0;font-family:var(--disp);font-size:22px;text-transform:uppercase;font-weight:700;display:flex;justify-content:space-between;align-items:baseline}
+.ahead h3 span{font-family:var(--mono);font-size:12px;color:var(--muted);text-transform:none}
+.ahead p{margin:6px 0 0;font-size:14px;color:var(--muted)}
+.tag{display:inline-block;font-size:10px;letter-spacing:.06em;text-transform:uppercase;padding:2px 6px;border-radius:4px;margin-right:6px;font-weight:600}
+.aday{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.aday.today{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.aday header{display:flex;justify-content:space-between;align-items:baseline;padding:10px 14px 6px}
+.aday header b{font-family:var(--disp);font-size:18px;text-transform:uppercase} .aday header span{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.sess{display:flex;gap:10px;align-items:flex-start;width:100%;text-align:left;padding:10px 14px;border-top:1px solid var(--line)}
+.sess:hover,.sess:focus-visible{background:var(--soft)}
+.sess .sw{width:4px;align-self:stretch;border-radius:2px;flex:none} .sess .when{font-family:var(--mono);font-size:12px;color:var(--muted);width:48px;flex:none;padding-top:2px}
+.sess .tt{font-weight:600;font-size:15px} .sess .sub{font-size:13px;color:var(--muted);margin-top:2px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.sess.opt .tt{color:var(--muted);font-weight:500}
+.rest{padding:10px 14px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+/* sheet */
+.scrim{position:fixed;inset:0;background:rgba(16,23,32,.45);display:none;z-index:10}
+.scrim.open{display:block}
+.sheet{position:fixed;left:0;right:0;bottom:0;max-height:88vh;background:var(--surface);border-radius:16px 16px 0 0;z-index:11;transform:translateY(105%);transition:transform .25s ease;display:flex;flex-direction:column;box-shadow:0 -8px 30px rgba(0,0,0,.2)}
+.sheet.open{transform:none}
+@media (min-width:760px){.sheet{left:50%;right:auto;bottom:auto;top:50%;width:640px;max-height:84vh;border-radius:16px;transform:translate(-50%,-50%) scale(.98);opacity:0;pointer-events:none}.sheet.open{transform:translate(-50%,-50%);opacity:1;pointer-events:auto}}
+@media (prefers-reduced-motion:reduce){.sheet{transition:none}}
+.sheet .grab{width:40px;height:4px;border-radius:2px;background:var(--line);margin:10px auto 0}
+.sheet .sh{padding:12px 20px 8px;display:flex;gap:12px;align-items:flex-start}
+.sheet .sh .sw{width:6px;border-radius:3px;align-self:stretch;flex:none}
+.sheet h2{margin:0;font-family:var(--disp);font-size:26px;line-height:1.05;text-transform:uppercase;font-weight:700}
+.sheet .meta{font-family:var(--mono);font-size:12px;color:var(--muted);margin-top:4px}
+.sheet .body{padding:4px 20px 24px;overflow:auto;font-size:15px;line-height:1.5;white-space:pre-wrap}
+.sheet .close{position:absolute;top:10px;right:12px;width:32px;height:32px;border-radius:50%;background:var(--soft);font-size:18px}
+.sheet .wkline{margin:0 20px 8px;padding:8px 10px;background:var(--soft);border-radius:8px;font-size:13px;color:var(--muted)}
+.sheet .list{padding:0 12px 20px;overflow:auto}
+.legend{display:flex;flex-wrap:wrap;gap:10px 14px;padding:10px 4px 0;font-size:11px;color:var(--muted)} .legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+@media (max-width:620px){
+  .wrap{padding:8px 6px}
+  .wordmark{font-size:22px} .count b{font-size:24px}
+  .dow{grid-template-columns:30px repeat(7,1fr);gap:2px} .week{grid-template-columns:30px repeat(7,1fr);gap:2px}
+  .wk{padding:4px 2px;min-height:72px} .wk b{font-size:13px} .wk small{display:none}
+  .day{min-height:72px;padding:3px} .chip{font-size:0;height:9px;padding:0;border-radius:2px} .chip .t{display:none}
+  .nav .title{font-size:18px;min-width:90px} .seg button{padding:6px 10px}
+  .phases span{font-size:8px;padding:2px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hdr">
+    <div class="wordmark">Marathon 2027<small id="subtitle">Sun 21 Feb · Seville or the Bos</small></div>
+    <div class="count"><b id="days">—</b>days to go</div>
+  </div>
+
+  <section class="strip" aria-label="Weekly run volume across the 26 weeks">
+    <h2><span>Run km per week</span><span id="stripnow"></span></h2>
+    <div class="bars" id="bars"></div>
+    <div class="phases"><span class="p-base">Base</span><span class="p-build">Build</span><span class="p-specific">Specific</span><span class="p-taper">Taper</span><span class="p-race">Race</span></div>
+  </section>
+
+  <div class="bar-row">
+    <div class="seg" role="group" aria-label="View"><button id="vMonth" aria-pressed="true">Month</button><button id="vWeek" aria-pressed="false">Week</button></div>
+    <div class="nav"><button id="prev" aria-label="Previous">‹</button><div class="title" id="title"></div><button id="next" aria-label="Next">›</button></div>
+    <button class="today" id="todayBtn">Today</button>
+  </div>
+
+  <div id="view"></div>
+  <div class="legend"><span><i style="background:var(--run)"></i>Run</span><span><i style="background:var(--bike)"></i>Bike</span><span><i style="background:var(--gym)"></i>Gym</span><span><i style="background:var(--mob)"></i>Mobility / core</span><span><i style="background:var(--swim)"></i>Swim</span><span><i style="background:var(--race)"></i>Key day</span><span>Dashed / faded = optional</span></div>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true"><div class="grab"></div><button class="close" id="close" aria-label="Close">×</button><div id="sheetBody"></div></div>
+
+<script>
+/*__DATA__*/
+const S = PLAN.sessions, WEEKS = PLAN.weeks;
+const byDate = {}; S.forEach(s => (byDate[s.date] = byDate[s.date] || []).push(s));
+Object.values(byDate).forEach(a => a.sort((x, y) => x.time.localeCompare(y.time)));
+const iso = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+const parse = s => { const [y,m,d] = s.split('-').map(Number); return new Date(y, m-1, d); };
+const todayD = new Date(); todayD.setHours(0,0,0,0); const TODAY = iso(todayD);
+const START = parse(PLAN.start), RACE = parse(PLAN.race), END = new Date(RACE); END.setDate(END.getDate()+1);
+const DOW = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+const MON = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+const SPORTNAME = {run:'Run', bike:'Bike', gym:'Gym', mobility:'Mobility', swim:'Swim', race:'Key day'};
+const MAXKM = Math.max(...WEEKS.map(w => w.run_km));
+const weekOf = d => { const i = Math.floor(Math.round((d - START) / 864e5) / 7); return (i>=0 && i<WEEKS.length) ? WEEKS[i] : null; };
+const curWeek = weekOf(todayD) || (todayD < START ? WEEKS[0] : WEEKS[WEEKS.length-1]);
+document.getElementById('days').textContent = Math.max(0, Math.round((RACE - todayD)/864e5));
+
+// ---- load strip
+const bars = document.getElementById('bars');
+WEEKS.forEach(w => {
+  const b = document.createElement('button'); b.className = 'bar' + (w.cutback?' cut':'') + (w.key.length?' key':'') + (w===curWeek?' now':'');
+  b.title = `${w.label} · ${w.run_km} km`; b.setAttribute('aria-label', `${w.label}, ${w.run_km} km`);
+  b.innerHTML = `<i style="height:${Math.round(w.run_km/MAXKM*100)}%"></i>`;
+  b.onclick = () => { view='week'; cursor = parse(w.monday); render(); };
+  bars.appendChild(b);
+});
+document.getElementById('stripnow').textContent = `now: ${curWeek.label} · ${curWeek.run_km} km · peak ${MAXKM} km`;
+
+// ---- state
+let view = 'month', cursor = new Date(Math.max(START, Math.min(todayD, RACE)));
+function render(){
+  document.getElementById('vMonth').setAttribute('aria-pressed', view==='month');
+  document.getElementById('vWeek').setAttribute('aria-pressed', view==='week');
+  const v = document.getElementById('view'); v.innerHTML = '';
+  if (view === 'month') renderMonth(v); else renderWeek(v);
+}
+function chip(s, full){
+  const b = document.createElement('button'); b.className = `chip c-${s.sport}` + (s.optional?' opt':'');
+  b.innerHTML = `<span class="t">${s.time}</span>${short(s)}`; b.title = s.title;
+  b.onclick = e => { e.stopPropagation(); openSession(s); }; return b;
+}
+function short(s){
+  if (s.sport==='run'||s.sport==='race') return s.title.replace('Optional easy','Opt.').replace('Long run','Long').replace('Threshold','T').replace('Intervals','I').replace('Sharpener','Sharp').replace('Recovery jog','Rec.').replace('Easy run','Easy');
+  if (s.sport==='bike') return s.title.replace('Bike — ','').replace('Long ride — Z2, max','Long ride ≤').replace('hard session','Hard').replace('(base: your own)','');
+  if (s.sport==='gym') return s.title.replace('Chest & triceps + Core A','Chest/tri + core').replace('Back & biceps + Core B','Back/bi + core').replace('Heavy legs','Legs').replace(' (light, 2 sets)',' light');
+  if (s.sport==='mobility') return 'Mobility + core'; return s.title;
+}
+function renderMonth(v){
+  const y = cursor.getFullYear(), m = cursor.getMonth();
+  document.getElementById('title').textContent = (innerWidth<620?MON[m].slice(0,3):MON[m])+` ${y}`;
+  const dow = document.createElement('div'); dow.className='dow'; dow.innerHTML = '<span>Wk</span>' + DOW.map(d=>`<span>${d}</span>`).join(''); v.appendChild(dow);
+  const first = new Date(y, m, 1); let d = new Date(first); d.setDate(d.getDate() - ((d.getDay()+6)%7));
+  const last = new Date(y, m+1, 0);
+  while (d <= last){
+    const row = document.createElement('div'); row.className='week';
+    const w = weekOf(d);
+    const wk = document.createElement('div'); wk.className = 'wk' + (w?` p-${w.phase.toLowerCase()}`:'');
+    if (w){ wk.innerHTML = `<b>${w.label}</b><div class="load"><i style="width:${Math.round(w.run_km/MAXKM*100)}%"></i></div><small>${w.run_km}k</small>`; wk.onclick = () => openWeek(w); wk.tabIndex=0; wk.setAttribute('role','button'); wk.onkeydown = e=>{ if(e.key==='Enter') openWeek(w); }; }
+    else wk.innerHTML = '<b>&nbsp;</b>';
+    row.appendChild(wk);
+    for (let i=0;i<7;i++){
+      const k = iso(d); const cell = document.createElement('div');
+      cell.className = 'day' + (d.getMonth()!==m?' out':'') + (k===TODAY?' today':''); cell.tabIndex = 0; cell.setAttribute('role','button');
+      cell.innerHTML = `<span class="n">${d.getDate()}</span>`;
+      (byDate[k]||[]).forEach(s => cell.appendChild(chip(s)));
+      cell.onclick = () => openDay(k); cell.onkeydown = e=>{ if(e.key==='Enter') openDay(k); };
+      row.appendChild(cell); d = new Date(d); d.setDate(d.getDate()+1);
+    }
+    v.appendChild(row);
+  }
+}
+function renderWeek(v){
+  const mon = new Date(cursor); mon.setDate(mon.getDate() - ((mon.getDay()+6)%7));
+  const w = weekOf(mon);
+  const sun = new Date(mon); sun.setDate(sun.getDate()+6);
+  document.getElementById('title').textContent = w ? w.label : `${mon.getDate()} ${MON[mon.getMonth()].slice(0,3)}`;
+  const a = document.createElement('div'); a.className='agenda';
+  if (w){
+    const h = document.createElement('div'); h.className='ahead';
+    h.innerHTML = `<h3>Week ${w.label} <span>${fmt(mon)} – ${fmt(sun)}</span></h3>
+      <p><span class="tag" style="background:var(--${w.phase.toLowerCase()==='race'?'racewk':w.phase.toLowerCase()})">${w.phase}</span>${w.cutback?'<span class="tag" style="background:var(--soft)">Cutback</span>':''}${w.key.map(k=>`<span class="tag" style="background:var(--key)">${k}</span>`).join('')} <b style="color:var(--ink)">${w.run_km} km run</b> · bike ~${w.bike_h} h${w.notes?'<br>'+w.notes:''}</p>`;
+    a.appendChild(h);
+  }
+  for (let i=0;i<7;i++){
+    const d = new Date(mon); d.setDate(d.getDate()+i); const k = iso(d);
+    const card = document.createElement('div'); card.className = 'aday' + (k===TODAY?' today':'');
+    card.innerHTML = `<header><b>${DOW[i]}</b><span>${fmt(d)}</span></header>`;
+    const ss = byDate[k]||[];
+    if (!ss.length) card.innerHTML += `<div class="rest">${d<START||d>RACE?'—':'Rest'}</div>`;
+    ss.forEach(s => {
+      const b = document.createElement('button'); b.className = 'sess' + (s.optional?' opt':'');
+      b.innerHTML = `<span class="sw" style="background:var(--${s.sport==='mobility'?'mob':s.sport})"></span><span class="when">${s.time}<br>${s.mins}'</span><span><div class="tt">${s.title}</div><div class="sub">${s.detail.split('\n')[0]}</div></span>`;
+      b.onclick = () => openSession(s); card.appendChild(b);
+    });
+    a.appendChild(card);
+  }
+  v.appendChild(a);
+}
+const fmt = d => `${d.getDate()} ${MON[d.getMonth()].slice(0,3)}`;
+
+// ---- sheet
+const sheet = document.getElementById('sheet'), scrim = document.getElementById('scrim'), body = document.getElementById('sheetBody');
+function open(){ sheet.classList.add('open'); scrim.classList.add('open'); document.getElementById('close').focus(); }
+function closeSheet(){ sheet.classList.remove('open'); scrim.classList.remove('open'); }
+scrim.onclick = closeSheet; document.getElementById('close').onclick = closeSheet;
+document.addEventListener('keydown', e => { if (e.key==='Escape') closeSheet(); });
+function openSession(s){
+  const d = parse(s.date); const w = weekOf(d);
+  const col = s.sport==='mobility'?'mob':s.sport;
+  body.innerHTML = `<div class="sh"><span class="sw" style="background:var(--${col})"></span><div><h2>${esc(s.title)}</h2><div class="meta">${DOW[(d.getDay()+6)%7]} ${fmt(d)} · ${s.time} · ~${s.mins} min · ${SPORTNAME[s.sport]}${s.optional?' · optional':''}</div></div></div>
+    ${w?`<div class="wkline">Week ${w.label} · ${w.phase} · ${w.run_km} km run · bike ~${w.bike_h} h${w.notes?' — '+esc(w.notes):''}</div>`:''}
+    <div class="body">${esc(s.detail)}</div>`;
+  open();
+}
+function openDay(k){
+  const d = parse(k); const ss = byDate[k]||[]; const w = weekOf(d);
+  body.innerHTML = `<div class="sh"><div><h2>${DOW[(d.getDay()+6)%7]} ${fmt(d)}</h2><div class="meta">${w?`Week ${w.label} · ${w.phase}`:'Outside the plan'}</div></div></div><div class="list"></div>`;
+  const l = body.querySelector('.list');
+  if (!ss.length) l.innerHTML = '<div class="rest">Rest day.</div>';
+  ss.forEach(s => { const b = document.createElement('button'); b.className='sess'+(s.optional?' opt':'');
+    b.innerHTML = `<span class="sw" style="background:var(--${s.sport==='mobility'?'mob':s.sport})"></span><span class="when">${s.time}<br>${s.mins}'</span><span><div class="tt">${esc(s.title)}</div><div class="sub">${esc(s.detail.split('\n')[0])}</div></span>`;
+    b.onclick = () => openSession(s); l.appendChild(b); });
+  open();
+}
+function openWeek(w){ view='week'; cursor = parse(w.monday); render(); window.scrollTo({top:document.querySelector('.bar-row').offsetTop-8, behavior:'smooth'}); }
+const esc = s => s.replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+// ---- nav
+document.getElementById('vMonth').onclick = () => { view='month'; render(); };
+document.getElementById('vWeek').onclick = () => { view='week'; render(); };
+document.getElementById('prev').onclick = () => { if (view==='month') cursor = new Date(cursor.getFullYear(), cursor.getMonth()-1, 1); else cursor.setDate(cursor.getDate()-7); render(); };
+document.getElementById('next').onclick = () => { if (view==='month') cursor = new Date(cursor.getFullYear(), cursor.getMonth()+1, 1); else cursor.setDate(cursor.getDate()+7); render(); };
+document.getElementById('todayBtn').onclick = () => { cursor = new Date(Math.max(START, Math.min(todayD, RACE))); render(); };
+render();
+</script>
+</body>
+</html>
