@@ -1,0 +1,178 @@
+{
+ "videos": {
+  "Back squat": {"id": "Uv_DKDl7EjA", "start": 19},
+  "Single-leg RDL": {"id": "Zfr6wizR8rs", "start": 24},
+  "Bulgarian split squat": {"id": "hiLF_pF3EJM", "start": 0},
+  "Single-leg calf raise": {"id": "joBURoITwh8", "start": 0},
+  "Seated calf raise": {"id": "ORY-ke6vcgk", "start": 0},
+  "Seated leg curl": {"id": "Orxowest56U", "start": 0},
+  "Nordic hamstring curl": {"id": "wwgtGMHhS8Y", "start": 0},
+  "Step-downs": {"id": "Or4C-UQ63Xc", "start": 38},
+  "Bench press": {"id": "vcBig73ojpE", "start": 103},
+  "Dumbbell bench press": {"id": "VmB1G1K7v94", "start": 0},
+  "Incline dumbbell press": {"id": "0f6-uCUKqgA", "start": 19},
+  "Dips": {"id": "Tw0axi-Jlqc", "start": 0},
+  "Push-ups": {"id": "IODxDxX7oi4", "start": 0},
+  "Triceps pushdown": {"id": "_w-HpW70nSQ", "start": 46},
+  "Overhead triceps extension": {"id": "GzmlxvSFE7A", "start": 0},
+  "Hanging knee raise": {"id": "X-ACS9vpRyU", "start": 61},
+  "Row": {"id": "HW1tV_ilN68", "start": 0},
+  "Pull-ups": {"id": "Hdc7Mw6BIEE", "start": 0},
+  "Lat pulldown": {"id": "CAwf7n6Luuc", "start": 0},
+  "Face pulls": {"id": "ljgqer1ZpXg", "start": 0},
+  "Biceps curls": {"id": "in7PaeYlhrM", "start": 0},
+  "Dead bug": {"id": "g_BYB0R-4Ws", "start": 0},
+  "Pallof press": {"id": "Te5VAYXy0wQ", "start": 0},
+  "Front plank": {"id": "ASdvN_XEl_c", "start": 0},
+  "Side plank": {"id": "44ND4bOB-T0", "start": 0},
+  "Bird dog": {"id": "ZdAHe9_HeEw", "start": 0},
+  "Suitcase carry": {"id": "y-hn_Ha1-RE", "start": 0},
+  "90/90 hip switches": {"id": "qq_Z7sAmVrA", "start": 0},
+  "Ankle dorsiflexion wall touches": {"id": "pSMPd12mrg0", "start": 0},
+  "Thoracic rotations": {"id": "snzLuyYgbVI", "start": 0},
+  "Banded lateral walks": {"id": "CNUzq8eSQSo", "start": 0},
+  "Single-leg glute bridge": {"id": "_K_di6h2-Wg", "start": 0},
+  "Copenhagen plank": {"id": "kD1t1hWzIDE", "start": 0},
+  "Couch stretch": {"id": "Fg-lwNBzVV8", "start": 34}
+ },
+ "variants": [
+  {
+   "slug": "chest-triceps-core-a",
+   "match": {"sport": "gym", "title": "Chest & triceps + Core A"},
+   "exercises": [
+    {"name": "Bench or dumbbell press", "sets": "3×6–8", "videos": ["Bench press", "Dumbbell bench press"]},
+    {"name": "Incline dumbbell press", "sets": "3×8–10", "videos": ["Incline dumbbell press"]},
+    {"name": "Dips or push-ups", "sets": "3×8–10", "videos": ["Dips", "Push-ups"]},
+    {"name": "Triceps pushdown / overhead extension", "sets": "3×10", "videos": ["Triceps pushdown", "Overhead triceps extension"]},
+    {"name": "Dead bug", "sets": "Core A · 3×8/side", "videos": ["Dead bug"]},
+    {"name": "Pallof press", "sets": "Core A · 3×10/side", "videos": ["Pallof press"]},
+    {"name": "Front plank", "sets": "Core A · 3×45 s", "videos": ["Front plank"]},
+    {"name": "Hanging knee raise", "sets": "Core A · 3×10", "videos": ["Hanging knee raise"]}
+   ]
+  },
+  {
+   "slug": "back-biceps-core-b",
+   "match": {"sport": "gym", "title": "Back & biceps + Core B"},
+   "exercises": [
+    {"name": "Barbell or dumbbell row", "sets": "3×6–8", "videos": ["Row"]},
+    {"name": "Pull-ups or lat pulldown", "sets": "3×6–10", "videos": ["Pull-ups", "Lat pulldown"]},
+    {"name": "Face pulls", "sets": "3×12 — posture late in the marathon", "videos": ["Face pulls"]},
+    {"name": "Biceps curls", "sets": "3×10", "videos": ["Biceps curls"]},
+    {"name": "Side plank", "sets": "Core B · 3×30 s/side", "videos": ["Side plank"]},
+    {"name": "Bird dog", "sets": "Core B · 3×8/side", "videos": ["Bird dog"]},
+    {"name": "Suitcase carry", "sets": "Core B · 3×30 m/side", "videos": ["Suitcase carry"]}
+   ]
+  },
+  {
+   "slug": "heavy-legs-base",
+   "match": {"sport": "gym", "title": "Heavy legs", "detail_contains": "Back squat 60×15 warm-up"},
+   "exercises": [
+    {"name": "Back squat", "sets": "60×15 warm-up, then 120×5, 120×5, 130×5, 130×5–6", "videos": ["Back squat"]},
+    {"name": "Single-leg Romanian deadlift", "sets": "4×7/leg at 60–65 kg", "videos": ["Single-leg RDL"]},
+    {"name": "Bulgarian split squat", "sets": "3×7/leg at 40 kg", "videos": ["Bulgarian split squat"]},
+    {"name": "Single-leg calf raise (straight knee)", "sets": "3×10/leg, 3 s down", "videos": ["Single-leg calf raise"]},
+    {"name": "Seated calf raise (bent knee, soleus)", "sets": "3×12", "videos": ["Seated calf raise"]},
+    {"name": "Seated leg curl", "sets": "3×8/leg at 35 kg", "videos": ["Seated leg curl"]}
+   ]
+  },
+  {
+   "slug": "heavy-legs-build",
+   "match": {"sport": "gym", "title": "Heavy legs", "detail_contains": "Back squat 3×5"},
+   "exercises": [
+    {"name": "Back squat", "sets": "3×5 at 125–130 (after warm-up)", "videos": ["Back squat"]},
+    {"name": "Single-leg Romanian deadlift", "sets": "3×7/leg", "videos": ["Single-leg RDL"]},
+    {"name": "Bulgarian split squat", "sets": "3×7/leg", "videos": ["Bulgarian split squat"]},
+    {"name": "Single-leg calf raise (straight knee)", "sets": "3×10/leg, 3 s down", "videos": ["Single-leg calf raise"]},
+    {"name": "Seated calf raise (bent knee, soleus)", "sets": "3×12", "videos": ["Seated calf raise"]},
+    {"name": "Seated leg curl", "sets": "3×8/leg", "videos": ["Seated leg curl"]}
+   ]
+  },
+  {
+   "slug": "mobility-leg-maintenance",
+   "match": {"sport": "mobility", "title": "Mobility + leg maintenance"},
+   "exercises": [
+    {"name": "Couch stretch", "sets": "Mobility · 2×60 s/side", "videos": ["Couch stretch"]},
+    {"name": "90/90 hip switches", "sets": "Mobility · 2×8", "videos": ["90/90 hip switches"]},
+    {"name": "Ankle dorsiflexion wall touches", "sets": "Mobility · 2×10/side", "videos": ["Ankle dorsiflexion wall touches"]},
+    {"name": "Thoracic spine rotations", "sets": "Mobility · 2×8/side", "videos": ["Thoracic rotations"]},
+    {"name": "Banded lateral walks", "sets": "Strength-light · 3×12/side", "videos": ["Banded lateral walks"]},
+    {"name": "Single-leg glute bridge", "sets": "Strength-light · 3×10/side", "videos": ["Single-leg glute bridge"]},
+    {"name": "Copenhagen plank", "sets": "Strength-light · 3×20 s/side", "videos": ["Copenhagen plank"]},
+    {"name": "Nordic hamstring curl", "sets": "2×4 — eccentric hamstring work", "videos": ["Nordic hamstring curl"]},
+    {"name": "Step-downs off a box (single-leg, slow)", "sets": "2×10/side, slow · plus single-leg balance", "videos": ["Step-downs"]},
+    {"name": "Dead bug or Pallof press", "sets": "If time", "videos": ["Dead bug", "Pallof press"]}
+   ]
+  },
+  {
+   "slug": "legs-light",
+   "match": {"sport": "gym", "title": "Legs — light"},
+   "exercises": [
+    {"name": "Back squat", "sets": "2×5 at 100–110", "videos": ["Back squat"]},
+    {"name": "Single-leg Romanian deadlift", "sets": "2×7/leg, light", "videos": ["Single-leg RDL"]},
+    {"name": "Single-leg calf raise (straight knee)", "sets": "2×10–12", "videos": ["Single-leg calf raise"]},
+    {"name": "Seated calf raise (bent knee, soleus)", "sets": "2×10–12", "videos": ["Seated calf raise"]},
+    {"name": "Seated leg curl", "sets": "2×8", "videos": ["Seated leg curl"]}
+   ]
+  },
+  {
+   "slug": "legs-maintenance",
+   "match": {"sport": "gym", "title": "Legs — maintenance"},
+   "exercises": [
+    {"name": "Back squat", "sets": "3×5, same weight, no PRs", "videos": ["Back squat"]},
+    {"name": "Single-leg Romanian deadlift", "sets": "2×7/leg", "videos": ["Single-leg RDL"]},
+    {"name": "Single-leg calf raise (straight knee)", "sets": "3×10/leg, 3 s down", "videos": ["Single-leg calf raise"]},
+    {"name": "Seated calf raise (bent knee, soleus)", "sets": "3×12", "videos": ["Seated calf raise"]},
+    {"name": "Seated leg curl", "sets": "2×8/leg", "videos": ["Seated leg curl"]},
+    {"name": "Bulgarian split squat", "sets": "2×7 light, or drop", "videos": ["Bulgarian split squat"]}
+   ]
+  },
+  {
+   "slug": "legs-last-heavy",
+   "match": {"sport": "gym", "title": "Legs — last heavy session (light)"},
+   "exercises": [
+    {"name": "Back squat", "sets": "2×5 at ~110 (70%)", "videos": ["Back squat"]},
+    {"name": "Single-leg Romanian deadlift", "sets": "2×7/leg", "videos": ["Single-leg RDL"]},
+    {"name": "Single-leg calf raise (straight knee)", "sets": "2×10", "videos": ["Single-leg calf raise"]},
+    {"name": "Seated calf raise (bent knee, soleus)", "sets": "2×10", "videos": ["Seated calf raise"]},
+    {"name": "Seated leg curl", "sets": "2×8", "videos": ["Seated leg curl"]}
+   ]
+  },
+  {
+   "slug": "chest-triceps-core-a-taper",
+   "match": {"sport": "gym", "title": "Chest & triceps + Core A (light, 2 sets)"},
+   "exercises": [
+    {"name": "Bench or dumbbell press", "sets": "2×6–8, moderate weight", "videos": ["Bench press", "Dumbbell bench press"]},
+    {"name": "Incline dumbbell press", "sets": "2×8–10, moderate weight", "videos": ["Incline dumbbell press"]},
+    {"name": "Dips or push-ups", "sets": "2×8–10", "videos": ["Dips", "Push-ups"]},
+    {"name": "Triceps pushdown / overhead extension", "sets": "2×10", "videos": ["Triceps pushdown", "Overhead triceps extension"]},
+    {"name": "Dead bug", "sets": "Core A · 3×8/side — keep the core work", "videos": ["Dead bug"]},
+    {"name": "Pallof press", "sets": "Core A · 3×10/side", "videos": ["Pallof press"]},
+    {"name": "Front plank", "sets": "Core A · 3×45 s", "videos": ["Front plank"]},
+    {"name": "Hanging knee raise", "sets": "Core A · 3×10", "videos": ["Hanging knee raise"]}
+   ]
+  },
+  {
+   "slug": "back-biceps-core-b-taper",
+   "match": {"sport": "gym", "title": "Back & biceps + Core B (light, 2 sets)"},
+   "exercises": [
+    {"name": "Barbell or dumbbell row", "sets": "2×6–8, moderate weight", "videos": ["Row"]},
+    {"name": "Pull-ups or lat pulldown", "sets": "2×6–10", "videos": ["Pull-ups", "Lat pulldown"]},
+    {"name": "Face pulls", "sets": "2×12", "videos": ["Face pulls"]},
+    {"name": "Biceps curls", "sets": "2×10", "videos": ["Biceps curls"]},
+    {"name": "Side plank", "sets": "Core B · 3×30 s/side — keep the core work", "videos": ["Side plank"]},
+    {"name": "Bird dog", "sets": "Core B · 3×8/side", "videos": ["Bird dog"]},
+    {"name": "Suitcase carry", "sets": "Core B · 3×30 m/side", "videos": ["Suitcase carry"]}
+   ]
+  },
+  {
+   "slug": "mobility-race-week",
+   "match": {"sport": "mobility", "title": "Mobility only (optional)"},
+   "exercises": [
+    {"name": "Couch stretch", "sets": "2×60 s/side", "videos": ["Couch stretch"]},
+    {"name": "90/90 hip switches", "sets": "2×8", "videos": ["90/90 hip switches"]},
+    {"name": "Ankle dorsiflexion wall touches", "sets": "2×10/side", "videos": ["Ankle dorsiflexion wall touches"]},
+    {"name": "Thoracic spine rotations", "sets": "2×8/side", "videos": ["Thoracic rotations"]}
+   ]
+  }
+ ]
+}
