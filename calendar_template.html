@@ -90,6 +90,8 @@ button:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--bike);outl
 .sheet .body{padding:4px 20px 24px;overflow:auto;font-size:15px;line-height:1.5;white-space:pre-wrap}
 .sheet .close{position:absolute;top:10px;right:12px;width:32px;height:32px;border-radius:50%;background:var(--soft);font-size:18px}
 .sheet .wkline{margin:0 20px 8px;padding:8px 10px;background:var(--soft);border-radius:8px;font-size:13px;color:var(--muted)}
+.sheet .guide{display:block;margin:4px 20px 10px;padding:10px 14px;border-radius:8px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--gym);font-size:14px;font-weight:600;color:var(--ink);text-decoration:none}
+.sheet .guide:hover,.sheet .guide:focus-visible{background:var(--soft)}
 .sheet .list{padding:0 12px 20px;overflow:auto}
 .legend{display:flex;flex-wrap:wrap;gap:10px 14px;padding:10px 4px 0;font-size:11px;color:var(--muted)} .legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
 @media (max-width:620px){
@@ -238,7 +240,9 @@ document.addEventListener('keydown', e => { if (e.key==='Escape') closeSheet(); 
 function openSession(s){
   const d = parse(s.date); const w = weekOf(d);
   const col = s.sport==='mobility'?'mob':s.sport;
+  const pg = (typeof PAGES !== 'undefined') && PAGES[s.id];
   body.innerHTML = `<div class="sh"><span class="sw" style="background:var(--${col})"></span><div><h2>${esc(s.title)}</h2><div class="meta">${DOW[(d.getDay()+6)%7]} ${fmt(d)} · ${s.time} · ~${s.mins} min · ${SPORTNAME[s.sport]}${s.optional?' · optional':''}</div></div></div>
+    ${pg?`<a class="guide" href="${pg}" style="border-left-color:var(--${col})">Full session guide — exercises &amp; videos →</a>`:''}
     ${w?`<div class="wkline">Week ${w.label} · ${w.phase} · ${w.run_km} km run · bike ~${w.bike_h} h${w.notes?' — '+esc(w.notes):''}</div>`:''}
     <div class="body">${esc(s.detail)}</div>`;
   open();

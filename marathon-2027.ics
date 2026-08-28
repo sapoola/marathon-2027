@@ -7,7 +7,7 @@ X-WR-CALNAME:Marathon 2027
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:2026-08-27-run-1700@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260827T170000
 DTEND:20260827T174500
 SUMMARY:🏃 Easy run 5 km
@@ -20,7 +20,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-29-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260829T090000
 DTEND:20260829T095800
 SUMMARY:🏃 Easy run 8 km
@@ -31,7 +31,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260825T064500
 DTEND:20260825T074500
 SUMMARY:🚴 Bike — hard session
@@ -42,7 +42,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260827T064500
 DTEND:20260827T073500
 SUMMARY:🚴 Bike — hard session (base: your own)
@@ -53,7 +53,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26-bike-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260826T180000
 DTEND:20260826T190000
 SUMMARY:🚴 Bike — 60' Z2 (optional)
@@ -64,7 +64,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-30-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260830T093000
 DTEND:20260830T133000
 SUMMARY:🚴 Long ride — Z2\, max 4 h
@@ -76,7 +76,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260824T123000
 DTEND:20260824T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -84,12 +84,15 @@ DESCRIPTION:Week B1\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260826T123000
 DTEND:20260826T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -97,12 +100,15 @@ DESCRIPTION:Week B1\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260827T180000
 DTEND:20260827T190000
 SUMMARY:🏋️ Heavy legs
@@ -111,12 +117,14 @@ DESCRIPTION:Week B1\n\nBack squat 60×15 warm-up\, 120×5\, 120×5\, 130
   squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/le
  g\, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg
   curl 3×8/leg at 35 kg\n\nNo running today — bike this morning\, legs
-  this evening. Nothing to failure\; you're running long in 48 h.
+  this evening. Nothing to failure\; you're running long in 48 h.\n\nGuid
+ e: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260828T123000
 DTEND:20260828T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -129,12 +137,15 @@ DESCRIPTION:Week B1\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-31-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260831T073000
 DTEND:20260831T081500
 SUMMARY:🏃 Easy run 6 km
@@ -145,7 +156,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260902T180000
 DTEND:20260902T190000
 SUMMARY:🏃 Easy run 5 km + strides
@@ -159,7 +170,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260905T090000
 DTEND:20260905T101000
 SUMMARY:🏃 Easy run 10 km
@@ -170,7 +181,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-01-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260901T064500
 DTEND:20260901T074500
 SUMMARY:🚴 Bike — hard session
@@ -181,7 +192,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260903T064500
 DTEND:20260903T073500
 SUMMARY:🚴 Bike — hard session (base: your own)
@@ -192,7 +203,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02-bike-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260902T180000
 DTEND:20260902T190000
 SUMMARY:🚴 Bike — 60' Z2 (optional)
@@ -203,7 +214,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-06-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260906T093000
 DTEND:20260906T133000
 SUMMARY:🚴 Long ride — Z2\, max 4 h
@@ -215,7 +226,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-31-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260831T123000
 DTEND:20260831T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -223,12 +234,15 @@ DESCRIPTION:Week B2\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260902T123000
 DTEND:20260902T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -236,12 +250,15 @@ DESCRIPTION:Week B2\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260903T180000
 DTEND:20260903T190000
 SUMMARY:🏋️ Heavy legs
@@ -250,12 +267,14 @@ DESCRIPTION:Week B2\n\nBack squat 60×15 warm-up\, 120×5\, 120×5\, 130
   squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/le
  g\, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg
   curl 3×8/leg at 35 kg\n\nNo running today — bike this morning\, legs
-  this evening. Nothing to failure\; you're running long in 48 h.
+  this evening. Nothing to failure\; you're running long in 48 h.\n\nGuid
+ e: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260904T123000
 DTEND:20260904T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -268,12 +287,15 @@ DESCRIPTION:Week B2\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260907T073000
 DTEND:20260907T081500
 SUMMARY:🏃 Easy run 6 km
@@ -284,7 +306,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260909T180000
 DTEND:20260909T190000
 SUMMARY:🏃 Easy run 6 km + strides
@@ -298,7 +320,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260912T090000
 DTEND:20260912T102800
 SUMMARY:🏃 Easy run 13 km
@@ -309,7 +331,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260908T064500
 DTEND:20260908T074500
 SUMMARY:🚴 Bike — hard session
@@ -320,7 +342,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260910T064500
 DTEND:20260910T073500
 SUMMARY:🚴 Bike — hard session (base: your own)
@@ -331,7 +353,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-bike-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260909T180000
 DTEND:20260909T190000
 SUMMARY:🚴 Bike — 60' Z2 (optional)
@@ -342,7 +364,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260913T093000
 DTEND:20260913T133000
 SUMMARY:🚴 Long ride — Z2\, max 4 h
@@ -354,7 +376,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260907T123000
 DTEND:20260907T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -362,12 +384,15 @@ DESCRIPTION:Week B3\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260909T123000
 DTEND:20260909T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -375,12 +400,15 @@ DESCRIPTION:Week B3\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260910T180000
 DTEND:20260910T190000
 SUMMARY:🏋️ Heavy legs
@@ -389,12 +417,14 @@ DESCRIPTION:Week B3\n\nBack squat 60×15 warm-up\, 120×5\, 120×5\, 130
   squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/le
  g\, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg
   curl 3×8/leg at 35 kg\n\nNo running today — bike this morning\, legs
-  this evening. Nothing to failure\; you're running long in 48 h.
+  this evening. Nothing to failure\; you're running long in 48 h.\n\nGuid
+ e: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260911T123000
 DTEND:20260911T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -407,12 +437,15 @@ DESCRIPTION:Week B3\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260914T073000
 DTEND:20260914T081500
 SUMMARY:🏃 Easy run 7 km
@@ -423,7 +456,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260916T180000
 DTEND:20260916T190000
 SUMMARY:🏃 Fartlek 6 × 1' / 2'
@@ -436,7 +469,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260919T090000
 DTEND:20260919T103400
 SUMMARY:🏃 Easy run 14 km
@@ -447,7 +480,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260915T064500
 DTEND:20260915T074500
 SUMMARY:🚴 Bike — hard session
@@ -458,7 +491,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260917T064500
 DTEND:20260917T073500
 SUMMARY:🚴 Bike — hard session (base: your own)
@@ -469,7 +502,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-bike-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260916T180000
 DTEND:20260916T190000
 SUMMARY:🚴 Bike — 60' Z2 (optional)
@@ -480,7 +513,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-20-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260920T093000
 DTEND:20260920T133000
 SUMMARY:🚴 Long ride — Z2\, max 4 h
@@ -492,7 +525,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260914T123000
 DTEND:20260914T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -500,12 +533,15 @@ DESCRIPTION:Week B4\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260916T123000
 DTEND:20260916T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -513,12 +549,15 @@ DESCRIPTION:Week B4\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260917T180000
 DTEND:20260917T190000
 SUMMARY:🏋️ Heavy legs
@@ -527,12 +566,14 @@ DESCRIPTION:Week B4\n\nBack squat 60×15 warm-up\, 120×5\, 120×5\, 130
   squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/le
  g\, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg
   curl 3×8/leg at 35 kg\n\nNo running today — bike this morning\, legs
-  this evening. Nothing to failure\; you're running long in 48 h.
+  this evening. Nothing to failure\; you're running long in 48 h.\n\nGuid
+ e: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260918T123000
 DTEND:20260918T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -545,12 +586,15 @@ DESCRIPTION:Week B4\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260921T073000
 DTEND:20260921T081500
 SUMMARY:🏃 Easy run 6 km
@@ -561,7 +605,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260923T180000
 DTEND:20260923T190000
 SUMMARY:🏃 Easy run 6 km + strides
@@ -575,7 +619,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260926T090000
 DTEND:20260926T101000
 SUMMARY:🏃 Easy run 10 km
@@ -586,7 +630,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260922T064500
 DTEND:20260922T074500
 SUMMARY:🚴 Bike — hard session
@@ -597,7 +641,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260924T064500
 DTEND:20260924T073500
 SUMMARY:🚴 Bike — hard session (base: your own)
@@ -608,7 +652,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-bike-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260923T180000
 DTEND:20260923T190000
 SUMMARY:🚴 Bike — 60' Z2 (optional)
@@ -619,7 +663,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-27-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260927T093000
 DTEND:20260927T133000
 SUMMARY:🚴 Long ride — Z2\, max 4 h
@@ -631,7 +675,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260921T123000
 DTEND:20260921T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -639,12 +683,15 @@ DESCRIPTION:Week B5\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260923T123000
 DTEND:20260923T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -652,12 +699,15 @@ DESCRIPTION:Week B5\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260924T180000
 DTEND:20260924T190000
 SUMMARY:🏋️ Heavy legs
@@ -666,12 +716,14 @@ DESCRIPTION:Week B5\n\nBack squat 60×15 warm-up\, 120×5\, 120×5\, 130
   squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/le
  g\, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg
   curl 3×8/leg at 35 kg\n\nNo running today — bike this morning\, legs
-  this evening. Nothing to failure\; you're running long in 48 h.
+  this evening. Nothing to failure\; you're running long in 48 h.\n\nGuid
+ e: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260925T123000
 DTEND:20260925T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -684,12 +736,15 @@ DESCRIPTION:Week B5\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260928T073000
 DTEND:20260928T081500
 SUMMARY:🏃 Easy run 8 km
@@ -700,7 +755,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260930T180000
 DTEND:20260930T190000
 SUMMARY:🏃 Fartlek 6 × 2' / 2'
@@ -713,7 +768,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261003T090000
 DTEND:20261003T104000
 SUMMARY:🏃 Easy run 15 km
@@ -726,7 +781,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260929T064500
 DTEND:20260929T074500
 SUMMARY:🚴 Bike — hard session
@@ -737,7 +792,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261001T064500
 DTEND:20261001T073500
 SUMMARY:🚴 Bike — hard session (base: your own)
@@ -748,7 +803,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-bike-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260930T180000
 DTEND:20260930T190000
 SUMMARY:🚴 Bike — 60' Z2 (optional)
@@ -759,7 +814,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261004T093000
 DTEND:20261004T133000
 SUMMARY:🚴 Long ride — Z2\, max 4 h
@@ -771,7 +826,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260928T123000
 DTEND:20260928T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -779,12 +834,15 @@ DESCRIPTION:Week B6\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20260930T123000
 DTEND:20260930T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -792,12 +850,15 @@ DESCRIPTION:Week B6\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261001T180000
 DTEND:20261001T190000
 SUMMARY:🏋️ Heavy legs
@@ -806,12 +867,14 @@ DESCRIPTION:Week B6\n\nBack squat 60×15 warm-up\, 120×5\, 120×5\, 130
   squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/le
  g\, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg
   curl 3×8/leg at 35 kg\n\nNo running today — bike this morning\, legs
-  this evening. Nothing to failure\; you're running long in 48 h.
+  this evening. Nothing to failure\; you're running long in 48 h.\n\nGuid
+ e: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261002T123000
 DTEND:20261002T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -824,12 +887,15 @@ DESCRIPTION:Week B6\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261005T073000
 DTEND:20261005T081500
 SUMMARY:🏃 Easy run 9 km
@@ -840,7 +906,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261007T180000
 DTEND:20261007T190000
 SUMMARY:🏃 Threshold 3 × 6'
@@ -854,7 +920,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261010T090000
 DTEND:20261010T105200
 SUMMARY:🏃 Easy run 17 km
@@ -865,7 +931,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261006T064500
 DTEND:20261006T074500
 SUMMARY:🚴 Bike — hard session
@@ -876,7 +942,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261008T064500
 DTEND:20261008T073500
 SUMMARY:🚴 Bike — hard session (base: your own)
@@ -887,7 +953,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-bike-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261007T180000
 DTEND:20261007T190000
 SUMMARY:🚴 Bike — 60' Z2 (optional)
@@ -898,7 +964,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261011T093000
 DTEND:20261011T133000
 SUMMARY:🚴 Long ride — Z2\, max 4 h
@@ -910,7 +976,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261005T123000
 DTEND:20261005T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -918,12 +984,15 @@ DESCRIPTION:Week B7\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261007T123000
 DTEND:20261007T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -931,12 +1000,15 @@ DESCRIPTION:Week B7\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261008T180000
 DTEND:20261008T190000
 SUMMARY:🏋️ Heavy legs
@@ -945,12 +1017,14 @@ DESCRIPTION:Week B7\n\nBack squat 60×15 warm-up\, 120×5\, 120×5\, 130
   squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/le
  g\, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg
   curl 3×8/leg at 35 kg\n\nNo running today — bike this morning\, legs
-  this evening. Nothing to failure\; you're running long in 48 h.
+  this evening. Nothing to failure\; you're running long in 48 h.\n\nGuid
+ e: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261009T123000
 DTEND:20261009T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -963,12 +1037,15 @@ DESCRIPTION:Week B7\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261012T073000
 DTEND:20261012T081500
 SUMMARY:🏃 Easy run 7 km
@@ -979,7 +1056,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261014T180000
 DTEND:20261014T190000
 SUMMARY:🏃 Easy run 6 km + strides
@@ -993,7 +1070,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-race-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261017T090000
 DTEND:20261017T110000
 SUMMARY:🏁 5 km time trial
@@ -1007,7 +1084,7 @@ CATEGORIES:race
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261018T090000
 DTEND:20261018T095200
 SUMMARY:🏃 Easy run 7 km
@@ -1019,7 +1096,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261013T064500
 DTEND:20261013T074500
 SUMMARY:🚴 Bike — hard session
@@ -1030,7 +1107,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261015T064500
 DTEND:20261015T073500
 SUMMARY:🚴 Bike — hard session (base: your own)
@@ -1041,7 +1118,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-bike-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261014T180000
 DTEND:20261014T190000
 SUMMARY:🚴 Bike — 60' Z2 (optional)
@@ -1052,7 +1129,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261018T093000
 DTEND:20261018T133000
 SUMMARY:🚴 Long ride — Z2\, max 4 h
@@ -1064,7 +1141,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261012T123000
 DTEND:20261012T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -1072,12 +1149,15 @@ DESCRIPTION:Week B8\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261014T123000
 DTEND:20261014T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -1085,12 +1165,15 @@ DESCRIPTION:Week B8\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261015T180000
 DTEND:20261015T190000
 SUMMARY:🏋️ Heavy legs
@@ -1099,12 +1182,14 @@ DESCRIPTION:Week B8\n\nBack squat 60×15 warm-up\, 120×5\, 120×5\, 130
   squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/le
  g\, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg
   curl 3×8/leg at 35 kg\n\nNo running today — bike this morning\, legs
-  this evening. Nothing to failure\; you're running long in 48 h.
+  this evening. Nothing to failure\; you're running long in 48 h.\n\nGuid
+ e: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-base.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261016T123000
 DTEND:20261016T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -1117,12 +1202,15 @@ DESCRIPTION:Week B8\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261019T073000
 DTEND:20261019T081500
 SUMMARY:🏃 Easy run 7 km + strides
@@ -1136,7 +1224,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261020T173000
 DTEND:20261020T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -1150,7 +1238,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261021T180000
 DTEND:20261021T191500
 SUMMARY:🏃 Intervals 5 × 800 m
@@ -1164,7 +1252,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261024T090000
 DTEND:20261024T105200
 SUMMARY:🏃 Long run 17 km
@@ -1177,7 +1265,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261020T064500
 DTEND:20261020T074500
 SUMMARY:🚴 Bike — hard session
@@ -1188,7 +1276,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261022T064500
 DTEND:20261022T073500
 SUMMARY:🚴 Bike — Z2
@@ -1200,7 +1288,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261025T093000
 DTEND:20261025T130000
 SUMMARY:🚴 Long ride — Z2\, max 3.5 h
@@ -1212,7 +1300,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261019T123000
 DTEND:20261019T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -1220,12 +1308,15 @@ DESCRIPTION:Week W1\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261021T123000
 DTEND:20261021T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -1233,24 +1324,31 @@ DESCRIPTION:Week W1\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261022T180000
 DTEND:20261022T185000
 SUMMARY:🏋️ Heavy legs
 DESCRIPTION:Week W1\n\nBack squat 3×5 at 125–130 (after warm-up)\nSing
  le-leg RDL 3×7/leg\nBulgarian split squat 3×7/leg\nSingle-leg calf rai
  se 3×10/leg\, 3 s down\nSeated calf raise 3×12\nSeated leg curl 3×8/l
- eg\n\nSame weights as base\, one fewer set. No PR attempts from here.
+ eg\n\nSame weights as base\, one fewer set. No PR attempts from here.\n\
+ nGuide: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-buil
+ d.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-build.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261023T123000
 DTEND:20261023T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -1263,12 +1361,15 @@ DESCRIPTION:Week W1\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261026T073000
 DTEND:20261026T081500
 SUMMARY:🏃 Easy run 7 km + strides
@@ -1282,7 +1383,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261027T173000
 DTEND:20261027T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -1296,7 +1397,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261028T180000
 DTEND:20261028T191500
 SUMMARY:🏃 Threshold 2 × 10'
@@ -1309,7 +1410,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261031T090000
 DTEND:20261031T105800
 SUMMARY:🏃 Long run 18 km
@@ -1322,7 +1423,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261027T064500
 DTEND:20261027T074500
 SUMMARY:🚴 Bike — hard session
@@ -1333,7 +1434,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261029T064500
 DTEND:20261029T073500
 SUMMARY:🚴 Bike — Z2
@@ -1345,7 +1446,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261101T093000
 DTEND:20261101T130000
 SUMMARY:🚴 Long ride — Z2\, max 3.5 h
@@ -1357,7 +1458,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261026T123000
 DTEND:20261026T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -1365,12 +1466,15 @@ DESCRIPTION:Week W2\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261028T123000
 DTEND:20261028T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -1378,24 +1482,31 @@ DESCRIPTION:Week W2\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261029T180000
 DTEND:20261029T185000
 SUMMARY:🏋️ Heavy legs
 DESCRIPTION:Week W2\n\nBack squat 3×5 at 125–130 (after warm-up)\nSing
  le-leg RDL 3×7/leg\nBulgarian split squat 3×7/leg\nSingle-leg calf rai
  se 3×10/leg\, 3 s down\nSeated calf raise 3×12\nSeated leg curl 3×8/l
- eg\n\nSame weights as base\, one fewer set. No PR attempts from here.
+ eg\n\nSame weights as base\, one fewer set. No PR attempts from here.\n\
+ nGuide: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-buil
+ d.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-build.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261030T123000
 DTEND:20261030T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -1408,12 +1519,15 @@ DESCRIPTION:Week W2\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261102T073000
 DTEND:20261102T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -1427,7 +1541,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261103T173000
 DTEND:20261103T181000
 SUMMARY:🏃 Optional easy 6 km + strides
@@ -1441,7 +1555,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261104T180000
 DTEND:20261104T191500
 SUMMARY:🏃 Intervals 5 × 1 km
@@ -1454,7 +1568,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261107T090000
 DTEND:20261107T111000
 SUMMARY:🏃 Long run 20 km
@@ -1469,7 +1583,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261103T064500
 DTEND:20261103T074500
 SUMMARY:🚴 Bike — hard session
@@ -1480,7 +1594,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261105T064500
 DTEND:20261105T073500
 SUMMARY:🚴 Bike — Z2
@@ -1492,7 +1606,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261108T093000
 DTEND:20261108T130000
 SUMMARY:🚴 Long ride — Z2\, max 3.5 h
@@ -1504,7 +1618,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261102T123000
 DTEND:20261102T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -1512,12 +1626,15 @@ DESCRIPTION:Week W3\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261104T123000
 DTEND:20261104T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -1525,24 +1642,31 @@ DESCRIPTION:Week W3\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261105T180000
 DTEND:20261105T185000
 SUMMARY:🏋️ Heavy legs
 DESCRIPTION:Week W3\n\nBack squat 3×5 at 125–130 (after warm-up)\nSing
  le-leg RDL 3×7/leg\nBulgarian split squat 3×7/leg\nSingle-leg calf rai
  se 3×10/leg\, 3 s down\nSeated calf raise 3×12\nSeated leg curl 3×8/l
- eg\n\nSame weights as base\, one fewer set. No PR attempts from here.
+ eg\n\nSame weights as base\, one fewer set. No PR attempts from here.\n\
+ nGuide: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-buil
+ d.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-build.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261106T123000
 DTEND:20261106T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -1555,12 +1679,15 @@ DESCRIPTION:Week W3\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-swim-0700@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261106T070000
 DTEND:20261106T074000
 SUMMARY:🏊 Swim 30–40'
@@ -1572,7 +1699,7 @@ CATEGORIES:swim
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261109T073000
 DTEND:20261109T081500
 SUMMARY:🏃 Easy run 7 km + strides
@@ -1586,7 +1713,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261110T173000
 DTEND:20261110T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -1600,7 +1727,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261111T180000
 DTEND:20261111T190000
 SUMMARY:🏃 Threshold 3 × 5'
@@ -1613,7 +1740,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261114T090000
 DTEND:20261114T104000
 SUMMARY:🏃 Long run 15 km
@@ -1626,7 +1753,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261110T064500
 DTEND:20261110T074500
 SUMMARY:🚴 Bike — hard session
@@ -1637,7 +1764,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261112T064500
 DTEND:20261112T073500
 SUMMARY:🚴 Bike — Z2
@@ -1649,7 +1776,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261115T093000
 DTEND:20261115T130000
 SUMMARY:🚴 Long ride — Z2\, max 3.5 h
@@ -1661,7 +1788,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261109T123000
 DTEND:20261109T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -1669,12 +1796,15 @@ DESCRIPTION:Week W4\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261111T123000
 DTEND:20261111T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -1682,24 +1812,31 @@ DESCRIPTION:Week W4\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261112T180000
 DTEND:20261112T185000
 SUMMARY:🏋️ Heavy legs
 DESCRIPTION:Week W4\n\nBack squat 3×5 at 125–130 (after warm-up)\nSing
  le-leg RDL 3×7/leg\nBulgarian split squat 3×7/leg\nSingle-leg calf rai
  se 3×10/leg\, 3 s down\nSeated calf raise 3×12\nSeated leg curl 3×8/l
- eg\n\nSame weights as base\, one fewer set. No PR attempts from here.
+ eg\n\nSame weights as base\, one fewer set. No PR attempts from here.\n\
+ nGuide: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-buil
+ d.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-build.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261113T123000
 DTEND:20261113T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -1712,12 +1849,15 @@ DESCRIPTION:Week W4\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-swim-0700@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261113T070000
 DTEND:20261113T074000
 SUMMARY:🏊 Swim 30–40'
@@ -1729,7 +1869,7 @@ CATEGORIES:swim
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261116T073000
 DTEND:20261116T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -1743,7 +1883,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261117T173000
 DTEND:20261117T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -1757,7 +1897,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261118T180000
 DTEND:20261118T191500
 SUMMARY:🏃 Threshold 3 × 2 km
@@ -1770,7 +1910,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261121T090000
 DTEND:20261121T112200
 SUMMARY:🏃 Long run 22 km
@@ -1785,7 +1925,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261117T064500
 DTEND:20261117T074500
 SUMMARY:🚴 Bike — hard session
@@ -1796,7 +1936,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261119T064500
 DTEND:20261119T073500
 SUMMARY:🚴 Bike — Z2
@@ -1808,7 +1948,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261122T093000
 DTEND:20261122T130000
 SUMMARY:🚴 Long ride — Z2\, max 3.5 h
@@ -1820,7 +1960,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261116T123000
 DTEND:20261116T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -1828,12 +1968,15 @@ DESCRIPTION:Week W5\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261118T123000
 DTEND:20261118T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -1841,24 +1984,31 @@ DESCRIPTION:Week W5\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261119T180000
 DTEND:20261119T185000
 SUMMARY:🏋️ Heavy legs
 DESCRIPTION:Week W5\n\nBack squat 3×5 at 125–130 (after warm-up)\nSing
  le-leg RDL 3×7/leg\nBulgarian split squat 3×7/leg\nSingle-leg calf rai
  se 3×10/leg\, 3 s down\nSeated calf raise 3×12\nSeated leg curl 3×8/l
- eg\n\nSame weights as base\, one fewer set. No PR attempts from here.
+ eg\n\nSame weights as base\, one fewer set. No PR attempts from here.\n\
+ nGuide: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-buil
+ d.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-build.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261120T123000
 DTEND:20261120T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -1871,12 +2021,15 @@ DESCRIPTION:Week W5\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-swim-0700@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261120T070000
 DTEND:20261120T074000
 SUMMARY:🏊 Swim 30–40'
@@ -1888,7 +2041,7 @@ CATEGORIES:swim
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261123T073000
 DTEND:20261123T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -1902,7 +2055,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261124T173000
 DTEND:20261124T181000
 SUMMARY:🏃 Optional easy 6 km + strides
@@ -1916,7 +2069,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261125T180000
 DTEND:20261125T191500
 SUMMARY:🏃 Intervals 6 × 800 m
@@ -1929,7 +2082,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261128T090000
 DTEND:20261128T113400
 SUMMARY:🏃 Long run 24 km
@@ -1942,7 +2095,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261124T064500
 DTEND:20261124T074500
 SUMMARY:🚴 Bike — hard session
@@ -1953,7 +2106,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261126T064500
 DTEND:20261126T073500
 SUMMARY:🚴 Bike — Z2
@@ -1965,7 +2118,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261129T093000
 DTEND:20261129T130000
 SUMMARY:🚴 Long ride — Z2\, max 3.5 h
@@ -1977,7 +2130,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261123T123000
 DTEND:20261123T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -1985,12 +2138,15 @@ DESCRIPTION:Week W6\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261125T123000
 DTEND:20261125T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -1998,24 +2154,31 @@ DESCRIPTION:Week W6\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261126T180000
 DTEND:20261126T185000
 SUMMARY:🏋️ Heavy legs
 DESCRIPTION:Week W6\n\nBack squat 3×5 at 125–130 (after warm-up)\nSing
  le-leg RDL 3×7/leg\nBulgarian split squat 3×7/leg\nSingle-leg calf rai
  se 3×10/leg\, 3 s down\nSeated calf raise 3×12\nSeated leg curl 3×8/l
- eg\n\nSame weights as base\, one fewer set. No PR attempts from here.
+ eg\n\nSame weights as base\, one fewer set. No PR attempts from here.\n\
+ nGuide: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-buil
+ d.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-build.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261127T123000
 DTEND:20261127T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -2028,12 +2191,15 @@ DESCRIPTION:Week W6\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-swim-0700@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261127T070000
 DTEND:20261127T074000
 SUMMARY:🏊 Swim 30–40'
@@ -2045,7 +2211,7 @@ CATEGORIES:swim
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261130T073000
 DTEND:20261130T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -2059,7 +2225,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261201T173000
 DTEND:20261201T181000
 SUMMARY:🏃 Optional easy 6 km + strides
@@ -2073,7 +2239,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261202T180000
 DTEND:20261202T191500
 SUMMARY:🏃 Threshold 4 × 2 km
@@ -2086,7 +2252,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261205T090000
 DTEND:20261205T114600
 SUMMARY:🏃 Long run 26 km
@@ -2101,7 +2267,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261201T064500
 DTEND:20261201T074500
 SUMMARY:🚴 Bike — hard session
@@ -2112,7 +2278,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261203T064500
 DTEND:20261203T073500
 SUMMARY:🚴 Bike — Z2
@@ -2124,7 +2290,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261206T093000
 DTEND:20261206T130000
 SUMMARY:🚴 Long ride — Z2\, max 3.5 h
@@ -2136,7 +2302,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261130T123000
 DTEND:20261130T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -2144,12 +2310,15 @@ DESCRIPTION:Week W7\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261202T123000
 DTEND:20261202T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -2157,24 +2326,31 @@ DESCRIPTION:Week W7\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261203T180000
 DTEND:20261203T185000
 SUMMARY:🏋️ Heavy legs
 DESCRIPTION:Week W7\n\nBack squat 3×5 at 125–130 (after warm-up)\nSing
  le-leg RDL 3×7/leg\nBulgarian split squat 3×7/leg\nSingle-leg calf rai
  se 3×10/leg\, 3 s down\nSeated calf raise 3×12\nSeated leg curl 3×8/l
- eg\n\nSame weights as base\, one fewer set. No PR attempts from here.
+ eg\n\nSame weights as base\, one fewer set. No PR attempts from here.\n\
+ nGuide: https://sapoola.github.io/marathon-2027/sessions/heavy-legs-buil
+ d.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/heavy-legs-build.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261204T123000
 DTEND:20261204T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -2187,12 +2363,15 @@ DESCRIPTION:Week W7\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-swim-0700@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261204T070000
 DTEND:20261204T074000
 SUMMARY:🏊 Swim 30–40'
@@ -2204,7 +2383,7 @@ CATEGORIES:swim
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261207T073000
 DTEND:20261207T081500
 SUMMARY:🏃 Easy run 6 km + strides
@@ -2218,7 +2397,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261208T173000
 DTEND:20261208T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -2232,7 +2411,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261209T180000
 DTEND:20261209T190000
 SUMMARY:🏃 Sharpener 4 × 1 km
@@ -2245,7 +2424,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261212T090000
 DTEND:20261212T093400
 SUMMARY:🏃 Shake-out 4 km + easy swim
@@ -2256,7 +2435,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-race-0830@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261213T083000
 DTEND:20261213T140000
 SUMMARY:🏁 70.3 — swim 1.9 km / bike 90 km / run 21.1 km
@@ -2273,7 +2452,7 @@ CATEGORIES:race
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261208T064500
 DTEND:20261208T074500
 SUMMARY:🚴 Bike — Z3 max
@@ -2282,7 +2461,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261210T064500
 DTEND:20261210T073500
 SUMMARY:🚴 Bike — Z2
@@ -2294,7 +2473,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261207T123000
 DTEND:20261207T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -2302,12 +2481,15 @@ DESCRIPTION:Week W8\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261209T123000
 DTEND:20261209T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -2315,24 +2497,29 @@ DESCRIPTION:Week W8\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261210T180000
 DTEND:20261210T183000
 SUMMARY:🏋️ Legs — light
 DESCRIPTION:Week W8\n\nTwo light sets of everything\, 60–70% of usual. 
  Squat 2×5 at 100–110\, RDL 2×7/leg light\, both calf raises 2×10–
  12\, leg curl 2×8. Big event on Sunday / recovery week — this is move
- ment\, not training.
+ ment\, not training.\n\nGuide: https://sapoola.github.io/marathon-2027/s
+ essions/legs-light.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-light.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261211T123000
 DTEND:20261211T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -2345,12 +2532,15 @@ DESCRIPTION:Week W8\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261214T073000
 DTEND:20261214T081500
 SUMMARY:🏃 Easy run 7 km + strides
@@ -2364,7 +2554,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261215T173000
 DTEND:20261215T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -2378,7 +2568,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261216T180000
 DTEND:20261216T190000
 SUMMARY:🏃 Easy 8 km (no quality)
@@ -2389,7 +2579,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261219T090000
 DTEND:20261219T110400
 SUMMARY:🏃 Long run 19 km
@@ -2402,7 +2592,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261215T064500
 DTEND:20261215T074500
 SUMMARY:🚴 Bike — Z2
@@ -2413,7 +2603,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261217T064500
 DTEND:20261217T073500
 SUMMARY:🚴 Bike — Z2
@@ -2425,7 +2615,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261220T093000
 DTEND:20261220T110000
 SUMMARY:🚴 Long ride — Z2\, max 1.5 h
@@ -2437,7 +2627,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261214T123000
 DTEND:20261214T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -2445,12 +2635,15 @@ DESCRIPTION:Week W9\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261216T123000
 DTEND:20261216T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -2458,24 +2651,29 @@ DESCRIPTION:Week W9\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10\
  nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore 
  B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry
   3×30 m/side.\n\nLunchtime or morning — not right before the evening 
- quality run.
+ quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/
+ back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261217T180000
 DTEND:20261217T183000
 SUMMARY:🏋️ Legs — light
 DESCRIPTION:Week W9\n\nTwo light sets of everything\, 60–70% of usual. 
  Squat 2×5 at 100–110\, RDL 2×7/leg light\, both calf raises 2×10–
  12\, leg curl 2×8. Big event on Sunday / recovery week — this is move
- ment\, not training.
+ ment\, not training.\n\nGuide: https://sapoola.github.io/marathon-2027/s
+ essions/legs-light.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-light.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261218T123000
 DTEND:20261218T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -2488,12 +2686,15 @@ DESCRIPTION:Week W9\n\nNo running today. Injury-prevention session — no
   2×4 — the best eccentric hamstring work there is. Sore for the first
   few weeks\; that's why they start now\, not in December.\n4. Step-downs
   off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pallo
- f if time
+ f if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mob
+ ility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261221T073000
 DTEND:20261221T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -2507,7 +2708,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261222T173000
 DTEND:20261222T181000
 SUMMARY:🏃 Optional easy 6 km + strides
@@ -2521,7 +2722,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261223T180000
 DTEND:20261223T191500
 SUMMARY:🏃 Threshold 2 × 3 km
@@ -2534,7 +2735,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261226T090000
 DTEND:20261226T114600
 SUMMARY:🏃 Long run 26 km
@@ -2549,7 +2750,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261222T064500
 DTEND:20261222T074500
 SUMMARY:🚴 Bike — hard session
@@ -2561,7 +2762,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261224T064500
 DTEND:20261224T073500
 SUMMARY:🚴 Bike — Z2
@@ -2573,7 +2774,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261227T093000
 DTEND:20261227T120000
 SUMMARY:🚴 Long ride — Z2\, max 2.5 h
@@ -2585,7 +2786,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261221T123000
 DTEND:20261221T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -2593,12 +2794,15 @@ DESCRIPTION:Week W10\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261223T123000
 DTEND:20261223T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -2606,12 +2810,15 @@ DESCRIPTION:Week W10\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10
  \nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore
   B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carr
  y 3×30 m/side.\n\nLunchtime or morning — not right before the evening
-  quality run.
+  quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions
+ /back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261224T180000
 DTEND:20261224T183500
 SUMMARY:🏋️ Legs — maintenance
@@ -2619,12 +2826,15 @@ DESCRIPTION:Week W10\n\nBack squat 3×5\, same weight\, no PRs\nSingle-le
  g RDL 2×7/leg\nSingle-leg calf raise 3×10/leg\, 3 s down\nSeated calf 
  raise 3×12\nSeated leg curl 2×8/leg\nSplit squats: 2×7 light\, or dro
  p\n\nMaintenance: 2 working sets\, nothing new. The point is to keep str
- ength and tendon stiffness without costing Saturday.
+ ength and tendon stiffness without costing Saturday.\n\nGuide: https://s
+ apoola.github.io/marathon-2027/sessions/legs-maintenance.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-maintenance.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261225T123000
 DTEND:20261225T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -2637,12 +2847,15 @@ DESCRIPTION:Week W10\n\nNo running today. Injury-prevention session — n
  s 2×4 — the best eccentric hamstring work there is. Sore for the firs
  t few weeks\; that's why they start now\, not in December.\n4. Step-down
  s off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pall
- of if time
+ of if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mo
+ bility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261228T073000
 DTEND:20261228T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -2656,7 +2869,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261229T173000
 DTEND:20261229T181000
 SUMMARY:🏃 Optional easy 6 km + strides
@@ -2670,7 +2883,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261230T180000
 DTEND:20261230T191500
 SUMMARY:🏃 Threshold 4 × 2 km
@@ -2683,7 +2896,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270102T090000
 DTEND:20270102T115800
 SUMMARY:🏃 Long run 28 km
@@ -2698,7 +2911,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261229T064500
 DTEND:20261229T074500
 SUMMARY:🚴 Bike — hard session
@@ -2710,7 +2923,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261231T064500
 DTEND:20261231T073500
 SUMMARY:🚴 Bike — Z2
@@ -2722,7 +2935,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270103T093000
 DTEND:20270103T120000
 SUMMARY:🚴 Long ride — Z2\, max 2.5 h
@@ -2734,7 +2947,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261228T123000
 DTEND:20261228T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -2742,12 +2955,15 @@ DESCRIPTION:Week W11\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261230T123000
 DTEND:20261230T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -2755,12 +2971,15 @@ DESCRIPTION:Week W11\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10
  \nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore
   B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carr
  y 3×30 m/side.\n\nLunchtime or morning — not right before the evening
-  quality run.
+  quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions
+ /back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20261231T180000
 DTEND:20261231T183500
 SUMMARY:🏋️ Legs — maintenance
@@ -2768,12 +2987,15 @@ DESCRIPTION:Week W11\n\nBack squat 3×5\, same weight\, no PRs\nSingle-le
  g RDL 2×7/leg\nSingle-leg calf raise 3×10/leg\, 3 s down\nSeated calf 
  raise 3×12\nSeated leg curl 2×8/leg\nSplit squats: 2×7 light\, or dro
  p\n\nMaintenance: 2 working sets\, nothing new. The point is to keep str
- ength and tendon stiffness without costing Saturday.
+ ength and tendon stiffness without costing Saturday.\n\nGuide: https://s
+ apoola.github.io/marathon-2027/sessions/legs-maintenance.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-maintenance.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270101T123000
 DTEND:20270101T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -2786,12 +3008,15 @@ DESCRIPTION:Week W11\n\nNo running today. Injury-prevention session — n
  s 2×4 — the best eccentric hamstring work there is. Sore for the firs
  t few weeks\; that's why they start now\, not in December.\n4. Step-down
  s off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pall
- of if time
+ of if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mo
+ bility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270104T073000
 DTEND:20270104T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -2805,7 +3030,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270105T173000
 DTEND:20270105T181000
 SUMMARY:🏃 Optional easy 6 km + strides
@@ -2819,7 +3044,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270106T180000
 DTEND:20270106T191500
 SUMMARY:🏃 Threshold 3 × 3 km
@@ -2832,7 +3057,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270109T090000
 DTEND:20270109T121000
 SUMMARY:🏃 Long run 30 km
@@ -2847,7 +3072,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270105T064500
 DTEND:20270105T074500
 SUMMARY:🚴 Bike — hard session
@@ -2859,7 +3084,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270107T064500
 DTEND:20270107T073500
 SUMMARY:🚴 Bike — Z2
@@ -2871,7 +3096,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270110T093000
 DTEND:20270110T120000
 SUMMARY:🚴 Long ride — Z2\, max 2.5 h
@@ -2883,7 +3108,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270104T123000
 DTEND:20270104T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -2891,12 +3116,15 @@ DESCRIPTION:Week W12\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270106T123000
 DTEND:20270106T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -2904,12 +3132,15 @@ DESCRIPTION:Week W12\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10
  \nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore
   B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carr
  y 3×30 m/side.\n\nLunchtime or morning — not right before the evening
-  quality run.
+  quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions
+ /back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270107T180000
 DTEND:20270107T183500
 SUMMARY:🏋️ Legs — maintenance
@@ -2917,12 +3148,15 @@ DESCRIPTION:Week W12\n\nBack squat 3×5\, same weight\, no PRs\nSingle-le
  g RDL 2×7/leg\nSingle-leg calf raise 3×10/leg\, 3 s down\nSeated calf 
  raise 3×12\nSeated leg curl 2×8/leg\nSplit squats: 2×7 light\, or dro
  p\n\nMaintenance: 2 working sets\, nothing new. The point is to keep str
- ength and tendon stiffness without costing Saturday.
+ ength and tendon stiffness without costing Saturday.\n\nGuide: https://s
+ apoola.github.io/marathon-2027/sessions/legs-maintenance.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-maintenance.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270108T123000
 DTEND:20270108T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -2935,12 +3169,15 @@ DESCRIPTION:Week W12\n\nNo running today. Injury-prevention session — n
  s 2×4 — the best eccentric hamstring work there is. Sore for the firs
  t few weeks\; that's why they start now\, not in December.\n4. Step-down
  s off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pall
- of if time
+ of if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mo
+ bility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270111T073000
 DTEND:20270111T081500
 SUMMARY:🏃 Easy run 6 km + strides
@@ -2954,7 +3191,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270112T173000
 DTEND:20270112T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -2968,7 +3205,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270113T180000
 DTEND:20270113T190000
 SUMMARY:🏃 Sharpener 4 × 1 km
@@ -2981,7 +3218,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270116T090000
 DTEND:20270116T092800
 SUMMARY:🏃 Shake-out 3 km
@@ -2991,7 +3228,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-race-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270117T090000
 DTEND:20270117T110000
 SUMMARY:🏁 Half-marathon race (tune-up)
@@ -3005,7 +3242,7 @@ CATEGORIES:race
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270112T064500
 DTEND:20270112T074500
 SUMMARY:🚴 Bike — hard session
@@ -3017,7 +3254,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270114T064500
 DTEND:20270114T073500
 SUMMARY:🚴 Bike — Z2
@@ -3029,7 +3266,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-bike-1100@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270116T110000
 DTEND:20270116T120000
 SUMMARY:🚴 Bike — 60' Z2
@@ -3039,7 +3276,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270111T123000
 DTEND:20270111T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -3047,12 +3284,15 @@ DESCRIPTION:Week W13\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270113T123000
 DTEND:20270113T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -3060,12 +3300,15 @@ DESCRIPTION:Week W13\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10
  \nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore
   B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carr
  y 3×30 m/side.\n\nLunchtime or morning — not right before the evening
-  quality run.
+  quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions
+ /back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270114T180000
 DTEND:20270114T183500
 SUMMARY:🏋️ Legs — maintenance
@@ -3073,12 +3316,15 @@ DESCRIPTION:Week W13\n\nBack squat 3×5\, same weight\, no PRs\nSingle-le
  g RDL 2×7/leg\nSingle-leg calf raise 3×10/leg\, 3 s down\nSeated calf 
  raise 3×12\nSeated leg curl 2×8/leg\nSplit squats: 2×7 light\, or dro
  p\n\nMaintenance: 2 working sets\, nothing new. The point is to keep str
- ength and tendon stiffness without costing Saturday.
+ ength and tendon stiffness without costing Saturday.\n\nGuide: https://s
+ apoola.github.io/marathon-2027/sessions/legs-maintenance.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-maintenance.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270115T123000
 DTEND:20270115T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -3091,12 +3337,15 @@ DESCRIPTION:Week W13\n\nNo running today. Injury-prevention session — n
  s 2×4 — the best eccentric hamstring work there is. Sore for the firs
  t few weeks\; that's why they start now\, not in December.\n4. Step-down
  s off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pall
- of if time
+ of if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mo
+ bility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270118T073000
 DTEND:20270118T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -3110,7 +3359,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270119T173000
 DTEND:20270119T181000
 SUMMARY:🏃 Optional easy 6 km + strides
@@ -3124,7 +3373,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270120T180000
 DTEND:20270120T191500
 SUMMARY:🏃 Threshold 5 × 1 mile
@@ -3137,7 +3386,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270123T090000
 DTEND:20270123T122200
 SUMMARY:🏃 Long run 32 km
@@ -3153,7 +3402,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270119T064500
 DTEND:20270119T074500
 SUMMARY:🚴 Bike — hard session
@@ -3165,7 +3414,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270121T064500
 DTEND:20270121T073500
 SUMMARY:🚴 Bike — Z2
@@ -3177,7 +3426,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270124T093000
 DTEND:20270124T113000
 SUMMARY:🚴 Long ride — Z2\, max 2 h
@@ -3189,7 +3438,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270118T123000
 DTEND:20270118T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -3197,12 +3446,15 @@ DESCRIPTION:Week W14\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270120T123000
 DTEND:20270120T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -3210,12 +3462,15 @@ DESCRIPTION:Week W14\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10
  \nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore
   B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carr
  y 3×30 m/side.\n\nLunchtime or morning — not right before the evening
-  quality run.
+  quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions
+ /back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270121T180000
 DTEND:20270121T183500
 SUMMARY:🏋️ Legs — maintenance
@@ -3223,12 +3478,15 @@ DESCRIPTION:Week W14\n\nBack squat 3×5\, same weight\, no PRs\nSingle-le
  g RDL 2×7/leg\nSingle-leg calf raise 3×10/leg\, 3 s down\nSeated calf 
  raise 3×12\nSeated leg curl 2×8/leg\nSplit squats: 2×7 light\, or dro
  p\n\nMaintenance: 2 working sets\, nothing new. The point is to keep str
- ength and tendon stiffness without costing Saturday.
+ ength and tendon stiffness without costing Saturday.\n\nGuide: https://s
+ apoola.github.io/marathon-2027/sessions/legs-maintenance.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-maintenance.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270122T123000
 DTEND:20270122T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -3241,12 +3499,15 @@ DESCRIPTION:Week W14\n\nNo running today. Injury-prevention session — n
  s 2×4 — the best eccentric hamstring work there is. Sore for the firs
  t few weeks\; that's why they start now\, not in December.\n4. Step-down
  s off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pall
- of if time
+ of if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mo
+ bility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270125T073000
 DTEND:20270125T081500
 SUMMARY:🏃 Easy run 8 km + strides
@@ -3260,7 +3521,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270126T173000
 DTEND:20270126T181000
 SUMMARY:🏃 Optional easy 6 km + strides
@@ -3274,7 +3535,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270127T180000
 DTEND:20270127T191500
 SUMMARY:🏃 MP intervals 3 × 3 km
@@ -3288,7 +3549,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270130T090000
 DTEND:20270130T121000
 SUMMARY:🏃 Long run 30 km
@@ -3304,7 +3565,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270126T064500
 DTEND:20270126T074500
 SUMMARY:🚴 Bike — hard session
@@ -3316,7 +3577,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270128T064500
 DTEND:20270128T073500
 SUMMARY:🚴 Bike — Z2
@@ -3328,7 +3589,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270131T093000
 DTEND:20270131T120000
 SUMMARY:🚴 Long ride — Z2\, max 2.5 h
@@ -3340,7 +3601,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270125T123000
 DTEND:20270125T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -3348,12 +3609,15 @@ DESCRIPTION:Week W15\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270127T123000
 DTEND:20270127T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -3361,12 +3625,15 @@ DESCRIPTION:Week W15\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10
  \nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore
   B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carr
  y 3×30 m/side.\n\nLunchtime or morning — not right before the evening
-  quality run.
+  quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions
+ /back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270128T180000
 DTEND:20270128T183500
 SUMMARY:🏋️ Legs — maintenance
@@ -3374,12 +3641,15 @@ DESCRIPTION:Week W15\n\nBack squat 3×5\, same weight\, no PRs\nSingle-le
  g RDL 2×7/leg\nSingle-leg calf raise 3×10/leg\, 3 s down\nSeated calf 
  raise 3×12\nSeated leg curl 2×8/leg\nSplit squats: 2×7 light\, or dro
  p\n\nMaintenance: 2 working sets\, nothing new. The point is to keep str
- ength and tendon stiffness without costing Saturday.
+ ength and tendon stiffness without costing Saturday.\n\nGuide: https://s
+ apoola.github.io/marathon-2027/sessions/legs-maintenance.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-maintenance.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270129T123000
 DTEND:20270129T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -3392,12 +3662,15 @@ DESCRIPTION:Week W15\n\nNo running today. Injury-prevention session — n
  s 2×4 — the best eccentric hamstring work there is. Sore for the firs
  t few weeks\; that's why they start now\, not in December.\n4. Step-down
  s off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pall
- of if time
+ of if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mo
+ bility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270201T073000
 DTEND:20270201T081500
 SUMMARY:🏃 Easy run 7 km + strides
@@ -3411,7 +3684,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270202T173000
 DTEND:20270202T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -3425,7 +3698,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270203T180000
 DTEND:20270203T191500
 SUMMARY:🏃 Threshold 3 × 2 km
@@ -3438,7 +3711,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270206T090000
 DTEND:20270206T113400
 SUMMARY:🏃 Long run 24 km
@@ -3453,7 +3726,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270202T064500
 DTEND:20270202T074500
 SUMMARY:🚴 Bike — sweet spot
@@ -3463,7 +3736,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270204T064500
 DTEND:20270204T073500
 SUMMARY:🚴 Bike — Z2
@@ -3475,7 +3748,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270207T093000
 DTEND:20270207T110000
 SUMMARY:🚴 Long ride — Z2\, max 1.5 h
@@ -3487,7 +3760,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270201T123000
 DTEND:20270201T133000
 SUMMARY:🏋️ Chest & triceps + Core A
@@ -3495,12 +3768,15 @@ DESCRIPTION:Week W16\n\nBench or DB press 3×6–8\nIncline DB press 3×8
  –10\nDips or push-ups 3×8–10\nTriceps pushdown / overhead extension
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
- min so Monday stays a recovery day for the legs.
+ min so Monday stays a recovery day for the legs.\n\nGuide: https://sapoo
+ la.github.io/marathon-2027/sessions/chest-triceps-core-a.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ .html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270203T123000
 DTEND:20270203T133000
 SUMMARY:🏋️ Back & biceps + Core B
@@ -3508,24 +3784,29 @@ DESCRIPTION:Week W16\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10
  \nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore
   B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carr
  y 3×30 m/side.\n\nLunchtime or morning — not right before the evening
-  quality run.
+  quality run.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions
+ /back-biceps-core-b.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-gym-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270204T180000
 DTEND:20270204T183000
 SUMMARY:🏋️ Legs — last heavy session (light)
 DESCRIPTION:Week W16\n\nLast leg session before the race. 2 sets of every
  thing at 70%: squat 2×5 at ~110\, RDL 2×7/leg\, both calf raises 2×10
  \, leg curl 2×8. Done by 4 Feb\; from here legs only get the Friday mob
- ility.
+ ility.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/legs-l
+ ast-heavy.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/legs-last-heavy.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270205T123000
 DTEND:20270205T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -3538,12 +3819,15 @@ DESCRIPTION:Week W16\n\nNo running today. Injury-prevention session — n
  s 2×4 — the best eccentric hamstring work there is. Sore for the firs
  t few weeks\; that's why they start now\, not in December.\n4. Step-down
  s off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pall
- of if time
+ of if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mo
+ bility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270208T073000
 DTEND:20270208T081500
 SUMMARY:🏃 Easy run 6 km + strides
@@ -3557,7 +3841,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270209T173000
 DTEND:20270209T181000
 SUMMARY:🏃 Optional easy 5 km + strides
@@ -3571,7 +3855,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270210T180000
 DTEND:20270210T190000
 SUMMARY:🏃 Sharpener 4 × 1 km
@@ -3584,7 +3868,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270213T090000
 DTEND:20270213T103400
 SUMMARY:🏃 Long run 14 km
@@ -3598,7 +3882,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270209T064500
 DTEND:20270209T074500
 SUMMARY:🚴 Bike — Z2
@@ -3609,7 +3893,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270211T064500
 DTEND:20270211T073500
 SUMMARY:🚴 Bike — Z2
@@ -3621,7 +3905,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-bike-0930@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270214T093000
 DTEND:20270214T103000
 SUMMARY:🚴 Long ride — Z2\, max 1 h
@@ -3633,7 +3917,7 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270208T123000
 DTEND:20270208T131000
 SUMMARY:🏋️ Chest & triceps + Core A (light\, 2 sets)
@@ -3642,12 +3926,16 @@ DESCRIPTION:Week W17\n\nBench or DB press 3×6–8\nIncline DB press 3×8
   3×10\n\nCore A (15'): dead bug 3×8/side · Pallof press 3×10/side ·
   front plank 3×45 s · hanging knee raise 3×10.\n\nKeep it to 45–60 
  min so Monday stays a recovery day for the legs.\n\nTaper: 2 sets of eve
- rything\, moderate weight\, nothing to failure. Keep the core work.
+ rything\, moderate weight\, nothing to failure. Keep the core work.\n\nG
+ uide: https://sapoola.github.io/marathon-2027/sessions/chest-triceps-cor
+ e-a-taper.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/chest-triceps-core-a
+ -taper.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-gym-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270210T123000
 DTEND:20270210T131000
 SUMMARY:🏋️ Back & biceps + Core B (light\, 2 sets)
@@ -3656,12 +3944,15 @@ DESCRIPTION:Week W17\n\nRows 3×6–8\nPull-ups or lat pulldown 3×6–10
   B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carr
  y 3×30 m/side.\n\nLunchtime or morning — not right before the evening
   quality run.\n\nTaper: 2 sets of everything\, moderate weight\, nothing
-  to failure. Keep the core work.
+  to failure. Keep the core work.\n\nGuide: https://sapoola.github.io/mar
+ athon-2027/sessions/back-biceps-core-b-taper.html
 CATEGORIES:gym
+URL:https://sapoola.github.io/marathon-2027/sessions/back-biceps-core-b-t
+ aper.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270212T123000
 DTEND:20270212T131000
 SUMMARY:🧘 Mobility + leg maintenance
@@ -3674,12 +3965,15 @@ DESCRIPTION:Week W17\n\nNo running today. Injury-prevention session — n
  s 2×4 — the best eccentric hamstring work there is. Sore for the firs
  t few weeks\; that's why they start now\, not in December.\n4. Step-down
  s off a box 2×10/side\, slow · single-leg balance\n5. Dead bug or Pall
- of if time
+ of if time\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mo
+ bility-leg-maintenance.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-leg-mainten
+ ance.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-run-0730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270215T073000
 DTEND:20270215T081500
 SUMMARY:🏃 Easy 5 km + strides
@@ -3689,7 +3983,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-run-1730@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270216T173000
 DTEND:20270216T181000
 SUMMARY:🏃 Easy 5 km (optional)
@@ -3698,7 +3992,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-run-1800@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270217T180000
 DTEND:20270217T190000
 SUMMARY:🏃 Race-pace touch 3 × 1.5 km
@@ -3711,7 +4005,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-run-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270220T090000
 DTEND:20270220T092800
 SUMMARY:🏃 Shake-out 3 km
@@ -3721,7 +4015,7 @@ CATEGORIES:run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-race-0900@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270221T090000
 DTEND:20270221T130000
 SUMMARY:🏁 MARATHON
@@ -3737,7 +4031,7 @@ CATEGORIES:race
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-bike-0645@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270216T064500
 DTEND:20270216T071500
 SUMMARY:🚴 Bike — Z2
@@ -3746,18 +4040,21 @@ CATEGORIES:bike
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-mobility-1230@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART:20270217T123000
 DTEND:20270217T125500
 SUMMARY:🧘 Mobility only (optional)
 DESCRIPTION:Week W18\n\nRace week. 20–25 minutes of the Friday mobility
   section only — couch stretch\, 90/90\, ankles\, thoracic. No strength
-  work.
+  work.\n\nGuide: https://sapoola.github.io/marathon-2027/sessions/mobili
+ ty-race-week.html
 CATEGORIES:mobility
+URL:https://sapoola.github.io/marathon-2027/sessions/mobility-race-week.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 UID:week-B1@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:Week B1 · Base · run 13 km · bike ~7 h
@@ -3765,7 +4062,7 @@ DESCRIPTION:Establish the routine. 13 km. Both runs easy\, nothing else.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-B2@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Week B2 · Base · run 21 km · bike ~7 h
@@ -3773,7 +4070,7 @@ DESCRIPTION:21 km. Strides start on Wednesday.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-B3@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Week B3 · Base · run 25 km · bike ~7 h
@@ -3781,7 +4078,7 @@ DESCRIPTION:25 km.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-B4@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Week B4 · Base · run 28 km · bike ~7 h
@@ -3789,7 +4086,7 @@ DESCRIPTION:28 km. First structured session\, and it's a small one.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-B5@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Week B5 · Base · run 22 km · bike ~7 h · cutback
@@ -3798,7 +4095,7 @@ DESCRIPTION:Cutback: 22 km. The body consolidates on the easy weeks\, not
 END:VEVENT
 BEGIN:VEVENT
 UID:week-B6@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Week B6 · Base · run 31 km · bike ~7 h
@@ -3806,7 +4103,7 @@ DESCRIPTION:31 km. Gels start on the long run.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-B7@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Week B7 · Base · run 35 km · bike ~7 h
@@ -3814,7 +4111,7 @@ DESCRIPTION:35 km. First threshold work.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-B8@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Week B8 · Base · run 28 km · bike ~7 h · cutback · 5k TT
@@ -3823,7 +4120,7 @@ DESCRIPTION:Cutback + 5 km time trial. The base is done\; the block start
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W1@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Week W1 · Build · run 39 km · bike ~5.5 h
@@ -3831,7 +4128,7 @@ DESCRIPTION:Block starts. Thursday bike drops to Z2 from now.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W2@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Week W2 · Build · run 40 km · bike ~5.5 h
@@ -3839,7 +4136,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W3@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Week W3 · Build · run 45 km · bike ~5.5 h
@@ -3847,7 +4144,7 @@ DESCRIPTION:First marathon-pace work. One swim a week starts (Friday AM).
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W4@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Week W4 · Build · run 36 km · bike ~5.5 h · cutback
@@ -3855,7 +4152,7 @@ DESCRIPTION:Cutback.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W5@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Week W5 · Build · run 46 km · bike ~5.5 h
@@ -3863,7 +4160,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W6@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Week W6 · Build · run 49 km · bike ~5.5 h
@@ -3871,7 +4168,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W7@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Week W7 · Build · run 52 km · bike ~5.5 h
@@ -3879,7 +4176,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W8@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Week W8 · Build · run 45.1 km · bike ~70.3 h · 70.3
@@ -3887,7 +4184,7 @@ DESCRIPTION:70.3 week. Tuesday bike Z3 max. Nothing else on the weekend.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W9@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Week W9 · Specific · run 39 km · bike ~3 h
@@ -3896,7 +4193,7 @@ DESCRIPTION:Recovery week. Monday off. Tuesday bike Z2. Gym goes to maint
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W10@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Week W10 · Specific · run 51 km · bike ~4 h
@@ -3904,7 +4201,7 @@ DESCRIPTION:Sunday ride cap drops to 2.5 h. Long run is Boxing Day.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W11@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Week W11 · Specific · run 54 km · bike ~4 h
@@ -3912,7 +4209,7 @@ DESCRIPTION:Long run is Saturday 2 Jan.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W12@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Week W12 · Specific · run 56 km · bike ~4 h
@@ -3920,7 +4217,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W13@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Week W13 · Specific · run 47 km · bike ~4 h · cutback · Half
@@ -3929,7 +4226,7 @@ DESCRIPTION:Cutback + half-marathon race on Sunday. Saturday: short Z2 ri
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W14@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Week W14 · Specific · run 58 km · bike ~4 h · Peak 32 km
@@ -3937,7 +4234,7 @@ DESCRIPTION:Peak week. Sunday ride 2 h max.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W15@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Week W15 · Specific · run 56 km · bike ~4 h · 16k @ MP
@@ -3945,7 +4242,7 @@ DESCRIPTION:Key session Saturday: 16 km at MP. Lock A vs B after it.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W16@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Week W16 · Taper · run 46 km · bike ~3 h
@@ -3953,7 +4250,7 @@ DESCRIPTION:Taper 1. Last heavy legs Thursday 4 Feb\, light.
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W17@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Week W17 · Taper · run 34 km · bike ~3 h
@@ -3962,7 +4259,7 @@ DESCRIPTION:Taper 2. Upper body light\, no leg work beyond Friday mobilit
 END:VEVENT
 BEGIN:VEVENT
 UID:week-W18@marathon2027
-DTSTAMP:20260827T070309Z
+DTSTAMP:20260828T114946Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:Week W18 · Race · run 20 km · bike ~0.5 h · RACE
