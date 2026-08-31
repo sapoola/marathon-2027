@@ -56,10 +56,10 @@
     "fri": "full",
     "swim": false
    },
-   "notes": "21 km. Strides start on Wednesday.",
+   "notes": "21 km. Strides start on Wednesday.\n2026-09-05: long run held at 8 km (was 10 km) — last week's run volume was short (R=0.66).",
    "key": [],
    "cutback": false,
-   "run_km": 21.0,
+   "run_km": 19.0,
    "core_km": 21,
    "monday": "2026-08-31",
    "bike_h": 7,
@@ -1370,14 +1370,14 @@
    "week": "B2"
   },
   {
-   "km": 10,
+   "km": 8,
    "id": "2026-09-05-run-0900",
    "date": "2026-09-05",
    "time": "09:00",
    "mins": 70,
    "sport": "run",
-   "title": "Easy run 10 km",
-   "detail": "10 km at easy pace, 5:35–6:00/km, heart rate under 145. Conversational the whole way — the cyclist's engine will want to go faster; the legs don't get a vote yet, so don't let it. ",
+   "title": "Easy run 8 km",
+   "detail": "ADJUSTED (2026-09-05): held — last week's total running volume was short (8.6 of 13 km planned, R=0.66), so this week's long run repeats last week's planned distance instead of progressing.\n\n10 km at easy pace, 5:35–6:00/km, heart rate under 145. Conversational the whole way — the cyclist's engine will want to go faster; the legs don't get a vote yet, so don't let it. ",
    "kind": "easy",
    "optional": false,
    "week": "B2"
