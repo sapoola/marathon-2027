@@ -224,10 +224,10 @@
     "fri": "full",
     "swim": false
    },
-   "notes": "31 km. Gels start on the long run.",
+   "notes": "31 km. Gels start on the long run.\n2026-09-28: Monday easy run held at 4 km (was 8 km) — week total capped per rule 2.3 (last week actual 24.8 km, 1.12× cap = 27.8 km).",
    "key": [],
    "cutback": false,
-   "run_km": 31.0,
+   "run_km": 27.0,
    "core_km": 31,
    "monday": "2026-09-28",
    "bike_h": 7,
@@ -1916,14 +1916,14 @@
    "week": "B5"
   },
   {
-   "km": 8,
+   "km": 4,
    "id": "2026-09-28-run-0730",
    "date": "2026-09-28",
    "time": "07:30",
    "mins": 45,
    "sport": "run",
-   "title": "Easy run 8 km",
-   "detail": "8 km at easy pace, 5:35–6:00/km, heart rate under 145. Conversational the whole way — the cyclist's engine will want to go faster; the legs don't get a vote yet, so don't let it. ",
+   "title": "Easy run 4 km",
+   "detail": "ADJUSTED (2026-09-28): trimmed — coming week's planned run total (31 km) was more than 1.12× last week's actual running (24.8 km actual → cap 27.8 km); Monday's easy run cut from 8 km to fit (rule 2.3, progression sanity).\n\n8 km at easy pace, 5:35–6:00/km, heart rate under 145. Conversational the whole way — the cyclist's engine will want to go faster; the legs don't get a vote yet, so don't let it. ",
    "kind": "easy",
    "optional": false,
    "week": "B6"
