@@ -8,7 +8,7 @@ You are running the weekly marathon-plan review in the repo `sapoola/marathon-20
 
 CONTEXT
 - `plan.json` is the source of truth; `render.py` regenerates the calendar files; `ADJUSTMENT-RULES.md` says how to adjust. Read all three first.
-- Race: Sunday 21 February 2027. Goals A 3:40 / B 3:45 / C 3:55. Fixed dates that never move: 5k TT 17 Oct, 70.3 13 Dec, half 17 Jan, race 21 Feb.
+- Race: Sunday 21 February 2027. Goals A 3:40 / B 3:45 / C 3:55. Fixed dates that never move: 5k TT 16 Oct, 70.3 13 Dec, half 17 Jan, race 21 Feb.
 - The athlete is a strong cyclist (FTP 320 W, 82 kg) rebuilding running from a low base. Injury avoidance beats every other consideration.
 
 STEPS
