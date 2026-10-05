@@ -121,17 +121,17 @@ From B7 the easy run is Friday, quality Wednesday, long run Sunday; until the 70
 | W7 | 30 Nov | 51 | 12k: Threshold 4 × 2 km | 8 | Optional brick 5 km off the bike | Long run 26 km (2×4k @ MP) |  |
 | W8 | 7 Dec | 40.1 | 9k: Sharpener 4 × 1 km | 6 | Shake-out 4 km + easy swim | 70.3 — swim 1.9 km / bike 90 km / run 21.1 km | 70.3 week. Tuesday bike Z3 max. Saturday: shake-out + easy swim only. Nothing else on the weekend. |
 | W9 | 14 Dec | 34 | 8k: Easy 8 km (no quality) | 7 | — | Long run 19 km | Recovery week. Monday off (optional float). Tuesday bike Z2. Gym goes to maintenance from here; back & biceps moves to Thursday this week only. |
-| W10 | 21 Dec | 45 | 11k: Threshold 2 × 3 km | 8 | — | Long run 26 km (6k @ MP) | Saturday ride cap drops to 2.5 h. Easy run is Christmas Day; long run Sunday 27 Dec. |
-| W11 | 28 Dec | 48 | 12k: Threshold 4 × 2 km | 8 | — | Long run 28 km (8k @ MP) | Easy run Friday 1 Jan (move it to Saturday morning if New Year's Eve wins). Long run Sunday 3 Jan. |
-| W12 | 4 Jan | 50 | 12k: Threshold 3 × 3 km | 8 | — | Long run 30 km (10k @ MP) |  |
+| W10 | 21 Dec | 49 | 13k: Threshold 2 × 3 km | 10 | — | Long run 26 km (6k @ MP) | Saturday ride cap drops to 2.5 h. Easy run is Christmas Day; long run Sunday 27 Dec. +2 km on Wednesday (longer warm-up/cool-down) and Friday. |
+| W11 | 28 Dec | 52 | 14k: Threshold 4 × 2 km | 10 | — | Long run 28 km (8k @ MP) | Easy run Friday 1 Jan (move it to Saturday morning if New Year's Eve wins). Long run Sunday 3 Jan. +2 km on Wednesday (longer warm-up/cool-down) and Friday. |
+| W12 | 4 Jan | 54 | 14k: Threshold 3 × 3 km | 10 | — | Long run 30 km (10k @ MP) | +2 km on Wednesday (longer warm-up/cool-down) and Friday. |
 | W13 | 11 Jan | 42 | 9k: Sharpener 4 × 1 km | 6 | Shake-out 3 km | Half-marathon race (tune-up) | Cutback + half-marathon race on Sunday. Saturday: short Z2 ride only. The half sets your marathon goal. |
-| W14 | 18 Jan | 52 | 12k: Threshold 5 × 1 mile | 8 | — | Long run 32 km (8k @ MP) | Peak week. Saturday ride 2 h max. |
-| W15 | 25 Jan | 50 | 12k: MP intervals 3 × 3 km | 8 | — | Long run 30 km (16k @ MP) | Key session Sunday: 16 km at MP. Lock A vs B after it. |
+| W14 | 18 Jan | 56 | 14k: Threshold 5 × 1 mile | 10 | — | Long run 32 km (8k @ MP) | Peak week. Saturday ride 2 h max. +2 km on Wednesday (longer warm-up/cool-down) and Friday. |
+| W15 | 25 Jan | 54 | 14k: MP intervals 3 × 3 km | 10 | — | Long run 30 km (16k @ MP) | Key session Sunday: 16 km at MP. Lock A vs B after it. +2 km on Wednesday (longer warm-up/cool-down) and Friday. |
 | W16 | 1 Feb | 41 | 10k: Threshold 3 × 2 km | 7 | — | Long run 24 km (8k @ MP) | Taper 1. Last heavy legs Wednesday 3 Feb, light. |
 | W17 | 8 Feb | 29 | 9k: Sharpener 4 × 1 km | 6 | — | Long run 14 km (5k @ MP) | Taper 2. Upper body light, no leg work beyond Thursday mobility. |
 | W18 | 15 Feb | 15 | 7k: Race-pace touch 3 × 1.5 km | 5 | Shake-out 3 km | MARATHON | Race week. Carb-load Fri/Sat (8–10 g/kg/day, spread out). Nothing new. |
 
-Peak week is 52 km (the old optional Tuesday run is gone after the 70.3 — core volume is unchanged), peak long run 32 km. Lower than v1 on purpose: you're building tissue tolerance from a low base while carrying 5 h of cycling and 3 gym sessions. If the body is clearly handling it by W7, add 2 km to Wednesday, nowhere else.
+Peak week is 56 km. The old optional Tuesday run is gone; in W10–W12 and W14–W15 its km moved into Wednesday (+2 km of warm-up/cool-down) and Friday (+2 km), peak long run 32 km. Lower than v1 on purpose: you're building tissue tolerance from a low base while carrying 5 h of cycling and 3 gym sessions. If the body is clearly handling it by W7, add 2 km to Wednesday, nowhere else.
 
 ---
 
