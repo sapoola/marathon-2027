@@ -308,7 +308,7 @@
     "fri": "full",
     "swim": false
    },
-   "notes": "Cutback + 5 km time trial on Friday 16 Oct (lunchtime). Saturday is a rest day. Easy run and long ride both Sunday. The base is done; the block starts Monday.\n2026-10-09: Legs-light moved Wed→Mon 07:00 (fresh for the TT); easy swim moved Mon→Wed 18:30. Athlete request.",
+   "notes": "Cutback + 5 km time trial on Friday 16 Oct (lunchtime). Saturday is a rest day. Easy run and long ride both Sunday. The base is done; the block starts Monday.\n2026-10-09: Legs-light moved Wed→Mon 07:00 (fresh for the TT); easy swim moved Mon→Wed 18:30. Athlete request.\n2026-10-09: Revised — heavy legs stay Wed 18:30 (athlete's choice, replaces legs-light); easy swim moved Mon→Wed 07:00.",
    "key": [
     "5k TT"
    ],
@@ -2218,11 +2218,11 @@
    "km": 0,
    "id": "2026-10-12-swim-0700",
    "date": "2026-10-14",
-   "time": "18:30",
+   "time": "07:00",
    "mins": 40,
    "sport": "swim",
    "title": "Easy swim 30–40'",
-   "detail": "ADJUSTED (2026-10-09): moved from Monday to Wednesday evening at the athlete's request (Monday morning is now light legs).\n\nEasy swim — technique and relaxed aerobic lengths, no hard sets. Second swim of the week; the main set was Tuesday. Something like 200 easy, 4 × 50 drill (catch-up / fingertip drag), 6 × 100 easy with 20 s rest, 200 pull buoy.",
+   "detail": "ADJUSTED (2026-10-09): moved from Monday to Wednesday morning at the athlete's request.\n\nEasy swim — technique and relaxed aerobic lengths, no hard sets. Second swim of the week; the main set was Tuesday. Something like 200 easy, 4 × 50 drill (catch-up / fingertip drag), 6 × 100 easy with 20 s rest, 200 pull buoy.",
    "kind": "",
    "optional": false,
    "week": "B8"
@@ -2235,7 +2235,7 @@
    "mins": 60,
    "sport": "gym",
    "title": "Back & biceps + Core B",
-   "detail": "Rows 3×6–8\nPull-ups or lat pulldown 3×6–10\nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry 3×30 m/side.\n\nMonday evening, after the morning light legs session. Upper back only — rows, pull-ups, pulldowns. No deadlifts or RDL-style hinges: the legs get their light work in the morning and need to be fresh for Friday's TT.",
+   "detail": "Rows 3×6–8\nPull-ups or lat pulldown 3×6–10\nFace pulls 3×12 — posture late in the marathon\nCurls 3×10\n\nCore B (15'): side plank 3×30 s/side · bird dog 3×8/side · suitcase carry 3×30 m/side.\n\nMonday evening. Upper back only — rows, pull-ups, pulldowns. No deadlifts or RDL-style hinges: the hamstrings are still recovering from Sunday's long run and need to be ready for Wednesday.",
    "kind": "",
    "optional": false,
    "week": "B8"
@@ -2295,12 +2295,12 @@
   {
    "km": 0,
    "id": "2026-10-14-gym-1830",
-   "date": "2026-10-12",
-   "time": "07:00",
-   "mins": 30,
+   "date": "2026-10-14",
+   "time": "18:30",
+   "mins": 60,
    "sport": "gym",
-   "title": "Legs — light",
-   "detail": "ADJUSTED (2026-10-09): moved from Wednesday to Monday 07:00 at the athlete's request, so the legs are fresh for Friday's 5 km TT.\n\nTwo light sets of everything, 60–70% of usual. Squat 2×5 at 100–110, RDL 2×7/leg light, both calf raises 2×10–12, leg curl 2×8. A big day or a recovery week is close — this is movement, not training.",
+   "title": "Heavy legs",
+   "detail": "ADJUSTED (2026-10-09): heavy legs as usual on Wednesday at the athlete's request (replaces the light legs session planned for this cutback week). Note the 5 km TT is on Friday — keep it clean, nothing to failure.\n\nBack squat 60×15 warm-up, 120×5, 120×5, 130×5, 130×5–6\nSingle-leg RDL 4×7/leg at 60–65 kg\nBulgarian split squat 3×7/leg at 40 kg\nSingle-leg calf raise (straight knee) 3×10/leg, 3 s down\nBent-knee / seated calf raise 3×12 — soleus\nSeated leg curl 3×8/leg at 35 kg\n\nQuality run at lunch, legs this evening — at least 6 h between, and eat properly in the gap. Heavy weight but stop 2–3 reps short of failure. If Thursday's ride or Sunday's long run keeps suffering, trim a set from the split squats and RDLs first. Long run is four days away.",
    "kind": "",
    "optional": false,
    "week": "B8"
