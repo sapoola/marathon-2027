@@ -308,7 +308,7 @@
     "fri": "full",
     "swim": false
    },
-   "notes": "Cutback + 5 km time trial on Friday 16 Oct (lunchtime). Saturday is a rest day. Easy run and long ride both Sunday. The base is done; the block starts Monday.\n2026-10-09: Legs-light moved Wed→Mon 07:00 (fresh for the TT); easy swim moved Mon→Wed 18:30. Athlete request.\n2026-10-09: Revised — heavy legs stay Wed 18:30 (athlete's choice, replaces legs-light); easy swim moved Mon→Wed 07:00.",
+   "notes": "Cutback + 5 km time trial on Friday 16 Oct (lunchtime). Saturday is a rest day. Easy run and long ride both Sunday. The base is done; the block starts Monday.\n2026-10-09: Legs-light moved Wed→Mon 07:00 (fresh for the TT); easy swim moved Mon→Wed 18:30. Athlete request.\n2026-10-09: Revised — heavy legs stay Wed 18:30 (athlete's choice, replaces legs-light); easy swim moved Mon→Wed 07:00.\n2026-10-21: after the 5k TT (19:13, 16 Oct) paces re-set and goals moved to A 3:20 / B 3:30 / C 3:40; half-marathon target 1:35 or under. Applied from 21 Oct (incl. the 5 × 800 m).",
    "key": [
     "5k TT"
    ],
@@ -2443,7 +2443,7 @@
    "mins": 75,
    "sport": "run",
    "title": "Intervals 5 × 800 m",
-   "detail": "Warm up 3 km easy + 4 strides. 5 × 800 m at I pace (about 3:20 per rep) with 400 m jog between. If the last rep is more than 5 s slower than the first, you started too fast. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 5 × 800 m at I pace (about 3:07 per rep) with 400 m jog between. If the last rep is more than 5 s slower than the first, you started too fast. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W1"
@@ -2547,7 +2547,7 @@
    "mins": 112,
    "sport": "run",
    "title": "Long run 17 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after.  Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after.  Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W1"
@@ -2625,7 +2625,7 @@
    "mins": 75,
    "sport": "run",
    "title": "Threshold 2 × 10'",
-   "detail": "Warm up 3 km easy + 4 strides. 2 × 10 minutes at threshold (4:40–4:48/km) with 3 minutes jog. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 2 × 10 minutes at threshold (4:10–4:16/km) with 3 minutes jog. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W2"
@@ -2729,7 +2729,7 @@
    "mins": 118,
    "sport": "run",
    "title": "Long run 18 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after.  Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after.  Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W2"
@@ -2807,7 +2807,7 @@
    "mins": 75,
    "sport": "run",
    "title": "Intervals 5 × 1 km",
-   "detail": "Warm up 3 km easy + 4 strides. 5 × 1 km at I pace (about 4:08) with 400 m jog. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 5 × 1 km at I pace (about 3:53) with 400 m jog. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W3"
@@ -2911,7 +2911,7 @@
    "mins": 130,
    "sport": "run",
    "title": "Long run 20 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. Run the last 3 km at marathon pace (5:12–5:20/km) — on the nose, not faster. Learning to hold exactly MP when tired is the skill. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. Run the last 3 km at marathon pace (5:05–5:10/km) — on the nose, not faster. Learning to hold exactly MP when tired is the skill. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W3"
@@ -2989,7 +2989,7 @@
    "mins": 60,
    "sport": "run",
    "title": "Threshold 3 × 5'",
-   "detail": "Warm up 3 km easy + 4 strides. 3 × 5 minutes at threshold with 90 s jog. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 3 × 5 minutes at threshold with 90 s jog. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W4"
@@ -3093,7 +3093,7 @@
    "mins": 100,
    "sport": "run",
    "title": "Long run 15 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after.  Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after.  Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W4"
@@ -3171,7 +3171,7 @@
    "mins": 75,
    "sport": "run",
    "title": "Threshold 3 × 2 km",
-   "detail": "Warm up 3 km easy + 4 strides. 3 × 2 km at threshold (4:40–4:48/km) with 2 minutes jog. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 3 × 2 km at threshold (4:10–4:16/km) with 2 minutes jog. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W5"
@@ -3275,7 +3275,7 @@
    "mins": 142,
    "sport": "run",
    "title": "Long run 22 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. Run the last 4 km at marathon pace (5:12–5:20/km) — on the nose, not faster. Learning to hold exactly MP when tired is the skill. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. Run the last 4 km at marathon pace (5:05–5:10/km) — on the nose, not faster. Learning to hold exactly MP when tired is the skill. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 5:05–5:10 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W5"
@@ -3353,7 +3353,7 @@
    "mins": 75,
    "sport": "run",
    "title": "Intervals 6 × 800 m",
-   "detail": "Warm up 3 km easy + 4 strides. 6 × 800 m at I pace with 400 m jog. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 6 × 800 m at I pace with 400 m jog. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W6"
@@ -3457,7 +3457,7 @@
    "mins": 154,
    "sport": "run",
    "title": "Long run 24 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after.  Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after.  Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W6"
@@ -3535,7 +3535,7 @@
    "mins": 75,
    "sport": "run",
    "title": "Threshold 4 × 2 km",
-   "detail": "Warm up 3 km easy + 4 strides. 4 × 2 km at threshold with 90 s jog. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 4 × 2 km at threshold with 90 s jog. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W7"
@@ -3639,7 +3639,7 @@
    "mins": 166,
    "sport": "run",
    "title": "Long run 26 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. Two blocks of 4 km at marathon pace (5:12–5:20/km) — the first starting at 10 km, the second at 18 km — with 1 km easy 'float' between. First proper MP blocks. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. Two blocks of 4 km at marathon pace (4:55–5:05/km) — the first starting at 10 km, the second at 18 km — with 1 km easy 'float' between. First proper MP blocks. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W7"
@@ -3717,7 +3717,7 @@
    "mins": 60,
    "sport": "run",
    "title": "Sharpener 4 × 1 km",
-   "detail": "Warm up 3 km easy + 4 strides. 4 × 1 km at 10k pace (4:22–4:28) with 400 m jog. Short and sharp — the 70.3 is on Sunday. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 4 × 1 km at 10k pace (3:58–4:03) with 400 m jog. Short and sharp — the 70.3 is on Sunday. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W8"
@@ -3951,7 +3951,7 @@
    "mins": 124,
    "sport": "run",
    "title": "Long run 19 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. Recovery week — no MP work. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. Recovery week — no MP work. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W9"
@@ -4029,7 +4029,7 @@
    "mins": 87,
    "sport": "run",
    "title": "Threshold 2 × 3 km",
-   "detail": "Warm up 4 km easy + 4 strides. 2 × 3 km at threshold with 2 minutes jog. Cool down 3 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 4 km easy + 4 strides. 2 × 3 km at threshold with 2 minutes jog. Cool down 3 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W10"
@@ -4120,7 +4120,7 @@
    "mins": 166,
    "sport": "run",
    "title": "Long run 26 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. After 8–10 km easy, run 6 km at marathon pace (5:12–5:20/km), then easy to the end. Hold MP exactly; this is the specific work. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. After 8–10 km easy, run 6 km at marathon pace (4:55–5:05/km), then easy to the end. Hold MP exactly; this is the specific work. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W10"
@@ -4198,7 +4198,7 @@
    "mins": 87,
    "sport": "run",
    "title": "Threshold 4 × 2 km",
-   "detail": "Warm up 4 km easy + 4 strides. 4 × 2 km at threshold with 90 s jog. Cool down 3 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 4 km easy + 4 strides. 4 × 2 km at threshold with 90 s jog. Cool down 3 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W11"
@@ -4289,7 +4289,7 @@
    "mins": 178,
    "sport": "run",
    "title": "Long run 28 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. After 8–10 km easy, run 8 km at marathon pace (5:12–5:20/km), then easy to the end. Hold MP exactly; this is the specific work. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. After 8–10 km easy, run 8 km at marathon pace (4:55–5:05/km), then easy to the end. Hold MP exactly; this is the specific work. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W11"
@@ -4367,7 +4367,7 @@
    "mins": 87,
    "sport": "run",
    "title": "Threshold 3 × 3 km",
-   "detail": "Warm up 4 km easy + 4 strides. 3 × 3 km at threshold with 2 minutes jog. Cool down 3 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 4 km easy + 4 strides. 3 × 3 km at threshold with 2 minutes jog. Cool down 3 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W12"
@@ -4458,7 +4458,7 @@
    "mins": 190,
    "sport": "run",
    "title": "Long run 30 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. After 8–10 km easy, run 10 km at marathon pace (5:12–5:20/km), then easy to the end. Hold MP exactly; this is the specific work. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. After 8–10 km easy, run 10 km at marathon pace (4:55–5:05/km), then easy to the end. Hold MP exactly; this is the specific work. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W12"
@@ -4536,7 +4536,7 @@
    "mins": 60,
    "sport": "run",
    "title": "Sharpener 4 × 1 km",
-   "detail": "Warm up 3 km easy + 4 strides. 4 × 1 km at 10k pace with 400 m jog. Half marathon on Sunday. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 4 × 1 km at 10k pace with 400 m jog. Half marathon on Sunday. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W13"
@@ -4640,7 +4640,7 @@
    "mins": 120,
    "sport": "race",
    "title": "Half-marathon race (tune-up)",
-   "detail": "3 km warm-up + strides, then race the half honestly. Target 1:42–1:46 if fitness is on track (4:50–5:00/km); a local Dutch half or a solo effort on your marathon loop both work. Even pace, no heroics in the first 5 km.\n\nAfterwards: this result plus the W15 session decide the A/B goal.\n\nHalf time → marathon goal: 1:42 → A (3:40) is on; 1:46 → B (3:45); slower → C (3:55) and we talk.",
+   "detail": "3 km warm-up + strides, then race the half honestly. Target 1:35 or under if fitness is on track (4:30/km; first 5 km about 4:33–4:36); a local Dutch half or a solo effort on your marathon loop both work. Even pace, no heroics in the first 5 km.\n\nAfterwards: this result plus the W15 session decide the A/B goal.\n\nHalf time → marathon goal: under 1:35 → A (3:20) is on; 1:35–1:38 → B (3:30); slower → C (3:40) and we talk.",
    "kind": "race",
    "optional": false,
    "week": "W13"
@@ -4718,7 +4718,7 @@
    "mins": 87,
    "sport": "run",
    "title": "Threshold 5 × 1 mile",
-   "detail": "Warm up 4 km easy + 4 strides. 5 × 1 mile (1.6 km) at threshold with 90 s jog. Cool down 3 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 4 km easy + 4 strides. 5 × 1 mile (1.6 km) at threshold with 90 s jog. Cool down 3 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W14"
@@ -4809,7 +4809,7 @@
    "mins": 202,
    "sport": "run",
    "title": "Long run 32 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. The peak long run. Easy to 24 km, then the last 8 km at marathon pace. If you're going self-supported, run this on your race loop with the bag stash and (if you have one) the friend on the bike — this is the rehearsal. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. The peak long run. Easy to 24 km, then the last 8 km at marathon pace. If you're going self-supported, run this on your race loop with the bag stash and (if you have one) the friend on the bike — this is the rehearsal. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W14"
@@ -4887,7 +4887,7 @@
    "mins": 87,
    "sport": "run",
    "title": "MP intervals 3 × 3 km",
-   "detail": "Warm up 4 km easy + 4 strides. 3 × 3 km at marathon pace minus 10 s (about 5:05/km) with 1 km easy float between. Race-specific. Cool down 3 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 4 km easy + 4 strides. 3 × 3 km at marathon pace minus 10 s (about 4:50/km) with 1 km easy float between. Race-specific. Cool down 3 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W15"
@@ -4978,7 +4978,7 @@
    "mins": 190,
    "sport": "run",
    "title": "Long run 30 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. The key session. 8 km easy, then 16 km continuous at marathon pace (5:12–5:20/km), then easy to 30 km. Fuel exactly as on race day. If the 16 km felt controlled → A goal. If you were hanging on from 12 km → B goal. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. The key session. 8 km easy, then 16 km continuous at marathon pace (4:55–5:05/km), then easy to 30 km. Fuel exactly as on race day. If the 16 km felt controlled → A goal. If you were hanging on from 12 km → B goal. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W15"
@@ -5056,7 +5056,7 @@
    "mins": 75,
    "sport": "run",
    "title": "Threshold 3 × 2 km",
-   "detail": "Warm up 3 km easy + 4 strides. 3 × 2 km at threshold with 90 s jog. Intensity stays, volume drops. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 3 × 2 km at threshold with 90 s jog. Intensity stays, volume drops. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W16"
@@ -5147,7 +5147,7 @@
    "mins": 154,
    "sport": "run",
    "title": "Long run 24 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. After 8–10 km easy, run 8 km at marathon pace (5:12–5:20/km), then easy to the end. Hold MP exactly; this is the specific work. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. After 8–10 km easy, run 8 km at marathon pace (4:55–5:05/km), then easy to the end. Hold MP exactly; this is the specific work. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W16"
@@ -5225,7 +5225,7 @@
    "mins": 60,
    "sport": "run",
    "title": "Sharpener 4 × 1 km",
-   "detail": "Warm up 3 km easy + 4 strides. 4 × 1 km at 10k pace with 400 m jog. Cool down 2 km easy. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "Warm up 3 km easy + 4 strides. 4 × 1 km at 10k pace with 400 m jog. Cool down 2 km easy. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W17"
@@ -5303,7 +5303,7 @@
    "mins": 94,
    "sport": "run",
    "title": "Long run 14 km",
-   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. 5 km at marathon pace in the middle. Short, controlled, done. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "All at easy pace, 5:35–6:00/km, HR under 145. Walk breaks are fine. Gel at 40' and every 30–35' after. 5 km at marathon pace in the middle. Short, controlled, done. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "long",
    "optional": false,
    "week": "W17"
@@ -5342,7 +5342,7 @@
    "mins": 60,
    "sport": "run",
    "title": "Race-pace touch 3 × 1.5 km",
-   "detail": "2 km easy, 3 × 1.5 km at marathon pace (5:12–5:20) with 90 s jog, 1 km easy. Purely to feel the pace. Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half.",
+   "detail": "2 km easy, 3 × 1.5 km at marathon pace (4:55–5:05) with 90 s jog, 1 km easy. Purely to feel the pace. Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half.",
    "kind": "quality",
    "optional": false,
    "week": "W18"
@@ -5394,11 +5394,11 @@
    "mins": 240,
    "sport": "race",
    "title": "MARATHON",
-   "detail": "Race day.\n\nSeville: 08:30 gun, breakfast 05:30–06:00, gel 15 min before the start. Self-supported: start 09:30–10:00, 4 laps of the Bos loop, bag at the lap point.\n\nPACING: 5:12–5:20/km through 30 km depending on the goal you locked in W15. No faster in the first 10 km, whatever it feels like. Even splits. First-timers who go out 10 s/km fast lose 5+ minutes in the last 10 km.\n\nFUEL: gel at 40 min then every 30 min, 60 g carbs/hour, water at every station.\n\nGoals: A 3:40 (5:12) · B 3:45 (5:19) · C 3:55 (5:34).",
+   "detail": "Race day.\n\nSeville: 08:30 gun, breakfast 05:30–06:00, gel 15 min before the start. Self-supported: start 09:30–10:00, 4 laps of the Bos loop, bag at the lap point.\n\nPACING: 4:59/km (B) to 4:44/km (A) through 30 km, depending on the goal you locked in W15. No faster in the first 10 km, whatever it feels like. Even splits. First-timers who go out 10 s/km fast lose 5+ minutes in the last 10 km.\n\nFUEL: gel at 40 min then every 30 min, 60 g carbs/hour, water at every station.\n\nGoals: A 3:20 (4:44) · B 3:30 (4:59) · C 3:40 (5:13).",
    "kind": "race",
    "optional": false,
    "week": "W18"
   }
  ],
- "paces": "Paces: easy 5:35–6:00 (HR <145) · MP 5:12–5:20 · T 4:40–4:48 · 10k 4:22–4:28 · I 4:05–4:12 (800 ≈ 3:20, 1k ≈ 4:08). Re-set after the 5k TT (16 Oct) and the January half."
+ "paces": "Paces (re-set 16 Oct from the 5k TT, 19:13; goals A 3:20 / B 3:30 / C 3:40): easy 5:35–6:00 (HR <145) · MP 4:55–5:05 (5:05–5:10 for the first two blocks, W3 and W5) · T 4:10–4:16 · 10k 3:58–4:03 · I 3:50–3:56 (800 ≈ 3:07, 1k ≈ 3:53). Re-set again after the January half."
 }

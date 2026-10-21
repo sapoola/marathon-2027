@@ -25,20 +25,20 @@ Consequences:
 
 | Goal | Time | Pace |
 |---|---|---|
-| A | 3:40 | 5:12/km |
-| B | 3:45 | 5:19/km |
-| C | 3:55 | 5:34/km |
+| A | 3:20 | 4:44/km |
+| B | 3:30 | 4:59/km |
+| C | 3:40 | 5:13/km |
 
-Train at MP = **5:15–5:20/km** until the January half says otherwise.
+Train at MP = **4:55–5:05/km** (first two MP blocks, W3 and W5, at 5:05–5:10) until the January half says otherwise. Goals revised 21 Oct after the 5k TT (19:13): previous A 3:40 / B 3:45 / C 3:55. Half-marathon target 1:35 or under.
 
 | Zone | Pace | Notes |
 |---|---|---|
 | Recovery | 6:00–6:30 | Your Strava HR Z2 is 121–145 — easy runs stay under 145 |
 | Easy / long run | 5:35–6:00 | Most of your 2026 runs sit here already. Good. |
-| Marathon (MP) | 5:12–5:20 | |
-| Threshold (T) | 4:40–4:48 | |
-| 10k pace | 4:22–4:28 | |
-| Interval (I) | 4:05–4:12 | 800 ≈ 3:20, 1k ≈ 4:08 |
+| Marathon (MP) | 4:55–5:05 | First two blocks 5:05–5:10 |
+| Threshold (T) | 4:10–4:16 | Re-set 16 Oct from 5k TT 19:13 |
+| 10k pace | 3:58–4:03 | |
+| Interval (I) | 3:50–3:56 | 800 ≈ 3:07, 1k ≈ 3:53 |
 | Strides | 20–25 s, relaxed | |
 
 Re-test: 5k time trial Fri 16 Oct (B8), lunchtime. Then the half in mid-January. Shift all paces by the same % each time.
@@ -139,8 +139,8 @@ Peak week is 56 km. The old optional Tuesday run is gone; in W10–W12 and W14�
 
 - **Base phase quality is strides and fartlek only** until B7. Your aerobic system doesn't need intervals yet; your calves and hamstrings need weeks of easy running first. (You tagged "hamstring 🤝 tendons" on a run last October — that's the thing we're avoiding.)
 - **Easy means under HR 145.** Your recent runs at 5:30–6:00 look right. Don't let the cyclist's engine drag the pace down to 5:10 on easy days — the legs aren't ready even though the lungs are.
-- **Long run:** easy pace, walk breaks fine in base. MP blocks go at 5:15–5:20 on the nose.
-- **Threshold:** comfortably hard, 4:40–4:48. Cruise intervals, not one long tempo.
+- **Long run:** easy pace, walk breaks fine in base. MP blocks go at 4:55–5:05 on the nose (5:05–5:10 for the first two).
+- **Threshold:** comfortably hard, 4:10–4:16. Cruise intervals, not one long tempo.
 - **Strides:** 6 × 20–25 s after easy runs from B2. Cheap, and they keep turnover while everything else is slow.
 
 ---
@@ -163,7 +163,7 @@ Fuel 70–90 g/h on the bike, 60 g/h on the run. Monday 14 Dec fully off. W9 has
 
 - Gels on every long run from B6. Build to 60 g/h by December.
 - Carb-load 8–10 g/kg/day for 2 days before (~650–800 g/day at 82 kg — spread it out).
-- Pacing: 5:12–5:20/km through 30k depending on goal, and no faster in the first 10k. Even splits. Flat course, no reason to bank time.
+- Pacing: 4:59/km (B) to 4:44/km (A) through 30k depending on goal, and no faster in the first 10k. Even splits. Flat course, no reason to bank time.
 - Self-supported version: four ~10.5k laps (Amsterdamse Bos), bag at the lap point, friend on a bike, start 9:30–10:00. Rehearse the whole setup on the W14 32k (Sun 24 Jan).
 
 ---

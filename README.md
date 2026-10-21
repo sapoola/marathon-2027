@@ -2,9 +2,9 @@
 
 Plan for a first marathon on Sunday 21 February 2027 (Seville, or self-supported around Amsterdam).
 Goals:
-- A 3:40
-- B 3:45
-- C 3:55.
+- A 3:20
+- B 3:30
+- C 3:40.
 
 | File | What it is |
 |---|---|
