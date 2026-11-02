@@ -451,10 +451,10 @@
     "fri": "full",
     "swim": true
    },
-   "notes": "First marathon-pace work.",
+   "notes": "First marathon-pace work.\n2026-11-02: Friday easy run 8 → 3 km, Saturday brick skipped — progression cap (39 km planned vs 30.4 km run last week).",
    "key": [],
    "cutback": false,
-   "run_km": 44.0,
+   "run_km": 39.0,
    "core_km": 39,
    "monday": "2026-11-02",
    "bike_h": 5.5,
@@ -2852,14 +2852,14 @@
    "week": "W3"
   },
   {
-   "km": 8,
+   "km": 3,
    "id": "2026-11-06-run-1230",
    "date": "2026-11-06",
    "time": "12:30",
    "mins": 45,
    "sport": "run",
-   "title": "Easy run 8 km + strides",
-   "detail": "8 km at easy pace, 5:35–6:00/km, heart rate under 145. Conversational the whole way — the cyclist's engine will want to go faster; the legs don't get a vote yet, so don't let it. Finish with 6 × 20–25 s strides, building to about mile pace, relaxed, full walk-back between. They keep leg speed while everything else is slow. ",
+   "title": "Easy run 3 km + strides",
+   "detail": "ADJUSTED (2026-11-02): planned run km this week (39) exceeds 1.12 × last week's actual (30.4 km); Friday easy run reduced from 8 km to 3 km (rule 2.3).\n\n3 km at easy pace, 5:35–6:00/km, heart rate under 145. Conversational the whole way — the cyclist's engine will want to go faster; the legs don't get a vote yet, so don't let it. Finish with 6 × 20–25 s strides, building to about mile pace, relaxed, full walk-back between. They keep leg speed while everything else is slow. ",
    "kind": "easy",
    "optional": false,
    "week": "W3"
@@ -2898,7 +2898,7 @@
    "mins": 30,
    "sport": "run",
    "title": "Optional brick 5 km off the bike",
-   "detail": "Optional brick: 5 km easy straight off the long ride — shoes on within 5 minutes. 70.3 practice: the first km will feel odd, that's the point. HR under 145, no strides. Skip it if the ride ran long or the legs are heavy — tomorrow's long run matters more.",
+   "detail": "ADJUSTED (2026-11-02): skip this optional brick — weekly run progression exceeded 1.12× (rule 2.3).\n\nOptional brick: 5 km easy straight off the long ride — shoes on within 5 minutes. 70.3 practice: the first km will feel odd, that's the point. HR under 145, no strides. Skip it if the ride ran long or the legs are heavy — tomorrow's long run matters more.",
    "kind": "opt",
    "optional": true,
    "week": "W3"
